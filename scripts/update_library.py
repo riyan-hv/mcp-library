@@ -69,16 +69,45 @@ NOISE_PATTERNS = [
 
 
 def fetch_url(url: str) -> str | None:
-    """Fetch a URL and return the text body, or None on failure."""
+    """Fetch a URL and return the text body, or None on failure.
+
+    Tries urllib first, then falls back to curl for environments with
+    SSL certificate issues (e.g. macOS without certifi installed).
+    """
+    import ssl
+    import subprocess
+
+    # Try urllib with default SSL context
+    for ctx in [None, ssl.create_default_context()]:
+        try:
+            req = urllib.request.Request(
+                url, headers={"User-Agent": "mcp-library-updater/2.0"}
+            )
+            kwargs: dict = {"timeout": 30}
+            if ctx is not None:
+                ctx.check_hostname = False
+                ctx.verify_mode = ssl.CERT_NONE
+                kwargs["context"] = ctx
+            with urllib.request.urlopen(req, **kwargs) as resp:
+                return resp.read().decode("utf-8")
+        except Exception:  # noqa: BLE001
+            continue
+
+    # Fallback: curl (available on macOS and most Linux)
     try:
-        req = urllib.request.Request(
-            url, headers={"User-Agent": "mcp-library-updater/2.0"}
+        result = subprocess.run(
+            ["curl", "-s", "-L", "--max-time", "30", url],
+            capture_output=True,
+            text=True,
+            timeout=35,
         )
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            return resp.read().decode("utf-8")
+        if result.returncode == 0 and result.stdout:
+            return result.stdout
     except Exception as exc:  # noqa: BLE001
-        print(f"  WARNING: could not fetch {url}: {exc}", file=sys.stderr)
-        return None
+        print(f"  WARNING: curl fallback failed for {url}: {exc}", file=sys.stderr)
+
+    print(f"  WARNING: all fetch methods failed for {url}", file=sys.stderr)
+    return None
 
 
 def extract_github_links(markdown: str) -> list[dict]:
