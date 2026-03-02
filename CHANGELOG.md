@@ -5,6 +5,15 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-03-02
+
+### 4 New MCP Servers Discovered
+
+- [rupinder2/mcp-orchestrator](https://github.com/rupinder2/mcp-orchestrator)
+- [VENTURE-AI-LABS/cryptodataapi-mcp](https://github.com/VENTURE-AI-LABS/cryptodataapi-mcp)
+- [AgenticRevolution/memory-nexus-cloud](https://github.com/AgenticRevolution/memory-nexus-cloud)
+- [knowledgepa3/gia-mcp-server](https://github.com/knowledgepa3/gia-mcp-server)
+
 ## 2026-02-25
 
 ### 2455 New MCP Servers Discovered

@@ -2,7 +2,7 @@
 
 > **Auto-updated every Monday at 00:00 UTC** from community sources including [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers), [PulseMCP](https://www.pulsemcp.com/servers), and [mcp.so](https://mcp.so).
 >
-> Last updated: <!-- LAST_UPDATED -->2026-02-25<!-- /LAST_UPDATED -->
+> Last updated: <!-- LAST_UPDATED -->2026-03-02<!-- /LAST_UPDATED -->
 
 This library is referenced by `~/.claude/CLAUDE.md` so every Claude Code session can pick the optimal MCP stack for any project. Claude reads this at session start and selects the best MCPs based on the task at hand.
 
