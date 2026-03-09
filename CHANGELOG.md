@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-03-09
+
+### 114 New MCP Servers Discovered
+
+- [rhein1/agoragentic-integrations](https://github.com/rhein1/agoragentic-integrations)
+- [gzoonet/cortex](https://github.com/gzoonet/cortex)
+- [rplryan/x402-discovery-mcp](https://github.com/rplryan/x402-discovery-mcp)
+- [albertnahas/icogenie-mcp](https://github.com/albertnahas/icogenie-mcp)
+- [Cifero74/mcp-apple-music](https://github.com/Cifero74/mcp-apple-music)
+- [codex-curator/studiomcphub](https://github.com/codex-curator/studiomcphub)
+- [jau123/MeiGen-AI-Design-MCP](https://github.com/jau123/MeiGen-AI-Design-MCP)
+- [BV-Venky/excalidraw-architect-mcp](https://github.com/BV-Venky/excalidraw-architect-mcp)
+- [aparajithn/agent-scraper-mcp](https://github.com/aparajithn/agent-scraper-mcp)
+- [apireno/DOMShell](https://github.com/apireno/DOMShell)
+- [PrinceGabriel-lgtm/freshcontext-mcp](https://github.com/PrinceGabriel-lgtm/freshcontext-mcp)
+- [aparajithn/agent-deploy-dashboard-mcp](https://github.com/aparajithn/agent-deploy-dashboard-mcp)
+- [mrostamii/rancher-mcp-server](https://github.com/mrostamii/rancher-mcp-server)
+- [freema/openclaw-mcp](https://github.com/freema/openclaw-mcp)
+- [OpenClaw](https://github.com/openclaw/openclaw)
+- [FantomaSkaRus1/telegram-bot-mcp](https://github.com/FantomaSkaRus1/telegram-bot-mcp)
+- [imdinu/apple-mail-mcp](https://github.com/imdinu/apple-mail-mcp)
+- [rchanllc/joltsms-mcp-server](https://github.com/rchanllc/joltsms-mcp-server)
+- [multimail-dev/mcp-server](https://github.com/multimail-dev/mcp-server)
+- [n24q02m/better-email-mcp](https://github.com/n24q02m/better-email-mcp)
+- [wazionapps/mcp-server](https://github.com/wazionapps/mcp-server)
+- [loglux/whatsapp-mcp-stream](https://github.com/loglux/whatsapp-mcp-stream)
+- [ArcadeData/arcadedb](https://github.com/ArcadeData/arcadedb)
+- [codeurali/mcp-dataverse](https://github.com/codeurali/mcp-dataverse)
+- [aparajithn/agent-utils-mcp](https://github.com/aparajithn/agent-utils-mcp)
+- [PatrickSys/codebase-context](https://github.com/PatrickSys/codebase-context)
+- [flytohub/flyto-core](https://github.com/flytohub/flyto-core)
+- [kimwwk/repocrunch](https://github.com/kimwwk/repocrunch)
+- [Pharaoh-so/pharaoh](https://github.com/0xUXDesign/pharaoh-mcp)
+- [shellsage-ai/mcp-server-boilerplate](https://github.com/shellsage-ai/mcp-server-boilerplate)
+
+_(and 84 more — see known_servers.json)_
+
 ## 2026-03-02
 
 ### 4 New MCP Servers Discovered
