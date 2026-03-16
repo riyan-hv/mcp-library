@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-03-16
+
+### 134 New MCP Servers Discovered
+
+- [arikusi/deepseek-mcp-server](https://github.com/arikusi/deepseek-mcp-server)
+- [entire-vc/evc-spark-mcp](https://github.com/entire-vc/evc-spark-mcp)
+- [carlosahumada89/govrider-mcp-server](https://github.com/carlosahumada89/govrider-mcp-server)
+- [Jovancoding/Network-AI](https://github.com/Jovancoding/Network-AI)
+- [whiteknightonhorse/APIbase](https://github.com/whiteknightonhorse/APIbase)
+- [gavxm/ani-mcp](https://github.com/gavxm/ani-mcp)
+- [tasopen/mcp-alphabanana](https://github.com/tasopen/mcp-alphabanana)
+- [ammawla/encode-toolkit](https://github.com/ammawla/encode-toolkit)
+- [samson-art/transcriptor-mcp](https://github.com/samson-art/transcriptor-mcp)
+- [junipr-labs/mcp-server](https://github.com/junipr-labs/mcp-server)
+- [nnemirovsky/iwdp-mcp](https://github.com/nnemirovsky/iwdp-mcp)
+- [ofershap/real-browser-mcp](https://github.com/ofershap/real-browser-mcp)
+- [antonio-mello-ai/mcp-pfsense](https://github.com/antonio-mello-ai/mcp-pfsense)
+- [antonio-mello-ai/mcp-proxmox](https://github.com/antonio-mello-ai/mcp-proxmox)
+- [davidlandais/ovh-api-mcp](https://github.com/davidlandais/ovh-api-mcp)
+- [ofershap/mcp-server-cloudflare](https://github.com/ofershap/mcp-server-cloudflare)
+- [ofershap/mcp-server-s3](https://github.com/ofershap/mcp-server-s3)
+- [shipstatic/mcp](https://github.com/shipstatic/mcp)
+- [trackerfitness729-jpg/sitelauncher-mcp-server](https://github.com/trackerfitness729-jpg/sitelauncher-mcp-server)
+- [preflight-dev/preflight](https://github.com/preflight-dev/preflight)
+- [ferodrigop/forge](https://github.com/ferodrigop/forge)
+- [littlebearapps/outlook-assistant](https://github.com/littlebearapps/outlook-assistant)
+- [aeoess/mingle-mcp](https://github.com/aeoess/mingle-mcp)
+- [overpod/mcp-telegram](https://github.com/overpod/mcp-telegram)
+- [PostcardBot/mcp-server](https://github.com/PostcardBot/mcp-server)
+- [yjcho9317/nworks](https://github.com/yjcho9317/nworks)
+- [corebasehq/coremcp](https://github.com/corebasehq/coremcp)
+- [izzzzzi/izTolkMcp](https://github.com/izzzzzi/izTolkMcp)
+- [ofershap/mcp-server-sqlite](https://github.com/ofershap/mcp-server-sqlite)
+- [GetMystAdmin/urdb-mcp](https://github.com/GetMystAdmin/urdb-mcp)
+
+_(and 104 more — see known_servers.json)_
+
 ## 2026-03-09
 
 ### 114 New MCP Servers Discovered
