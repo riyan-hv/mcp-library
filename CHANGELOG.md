@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-03-23
+
+### 86 New MCP Servers Discovered
+
+- [robhunter/agentdeals](https://github.com/robhunter/agentdeals)
+- [x402-index/x402search-mcp](https://github.com/x402-index/x402search-mcp)
+- [ikoskela/wisepanel-mcp](https://github.com/ikoskela/wisepanel-mcp)
+- [gregario/astronomy-oracle](https://github.com/gregario/astronomy-oracle)
+- [mikan-atomoki/text-to-model](https://github.com/mikan-atomoki/text-to-model)
+- [erajasekar/ai-diagram-maker-mcp](https://github.com/erajasekar/ai-diagram-maker-mcp)
+- [webdriverio/mcp](https://github.com/webdriverio/mcp)
+- [mikusnuz/dynadot-mcp](https://github.com/mikusnuz/dynadot-mcp)
+- [mctlhq/mctl-mcp](https://github.com/mctlhq/mctl-mcp)
+- [sevalla-hosting/mcp](https://github.com/sevalla-hosting/mcp)
+- [Sowiedu/Edict](https://github.com/Sowiedu/Edict)
+- [nvms/tui-mcp](https://github.com/nvms/tui-mcp)
+- [bababoi-bibilabu/agent-mq](https://github.com/bababoi-bibilabu/agent-mq)
+- [cseguinlz/doubletick-cli](https://github.com/cseguinlz/doubletick-cli)
+- [ExpertVagabond/solmail-mcp](https://github.com/ExpertVagabond/solmail-mcp)
+- [virtualsms-io/mcp-server](https://github.com/virtualsms-io/mcp-server)
+- [Py2755/aiogram-mcp](https://github.com/Py2755/aiogram-mcp)
+- [timkulbaev/mcp-gmail](https://github.com/timkulbaev/mcp-gmail)
+- [andyWang1688/sql-query-mcp](https://github.com/andyWang1688/sql-query-mcp)
+- [carrierone/verilexdata-mcp](https://github.com/carrierone/verilexdata-mcp)
+- [3KniGHtcZ/codebeamer-mcp](https://github.com/3KniGHtcZ/codebeamer-mcp)
+- [raye-deng/open-code-review](https://github.com/raye-deng/open-code-review)
+- [mikusnuz/app-publish-mcp](https://github.com/mikusnuz/app-publish-mcp)
+- [mikusnuz/cws-mcp](https://github.com/mikusnuz/cws-mcp)
+- [mikusnuz/npm-mcp](https://github.com/mikusnuz/npm-mcp)
+- [wooxogh/adr-mcp-setup](https://github.com/wooxogh/adr-mcp-setup)
+- [cerebrixos-org/tuning-engines-cli](https://github.com/cerebrixos-org/tuning-engines-cli)
+- [oscarsterling/clelp-mcp-server](https://github.com/oscarsterling/clelp-mcp-server)
+- [darktw/chatpipe-mcp](https://github.com/darktw/chatpipe-mcp)
+- [endiagram/mcp](https://github.com/dushyant30suthar/endiagram-mcp)
+
+_(and 56 more — see known_servers.json)_
+
 ## 2026-03-16
 
 ### 134 New MCP Servers Discovered
