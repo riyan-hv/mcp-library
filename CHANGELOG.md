@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-04-06
+
+### 209 New MCP Servers Discovered
+
+- [tadas-github/a2asearch-mcp](https://github.com/tadas-github/a2asearch-mcp)
+- [Work90210/APIFold](https://github.com/Work90210/APIFold)
+- [depwire/depwire](https://github.com/depwire/depwire)
+- [gpu-bridge/mcp-server](https://github.com/gpu-bridge/mcp-server)
+- [MikkoParkkola/mcp-gateway](https://github.com/MikkoParkkola/mcp-gateway)
+- [opentabs-dev/opentabs](https://github.com/opentabs-dev/opentabs)
+- [supertrained/rhumb](https://github.com/supertrained/rhumb)
+- [strale-io/strale](https://github.com/strale-io/strale)
+- [AceDataCloud/MCPNanoBanana](https://github.com/AceDataCloud/MCPNanoBanana)
+- [arikusi/nakkas](https://github.com/arikusi/nakkas)
+- [attalla1/photopea-mcp-server](https://github.com/attalla1/photopea-mcp-server)
+- [gupta-kush/spotify-mcp](https://github.com/gupta-kush/spotify-mcp)
+- [doctorm333/promptpilot-mcp-server](https://github.com/doctorm333/promptpilot-mcp-server)
+- [HelixGenomics/Genomic-Agent-Discovery](https://github.com/HelixGenomics/Genomic-Agent-Discovery)
+- [NyxToolsDev/dicom-hl7-mcp-server](https://github.com/NyxToolsDev/dicom-hl7-mcp-server)
+- [thelongevityvault/decoder-3am-mcp](https://github.com/thelongevityvault/decoder-3am-mcp)
+- [achiya-automation/safari-mcp](https://github.com/achiya-automation/safari-mcp)
+- [bighippoman/intercept-mcp](https://github.com/bighippoman/intercept-mcp)
+- [Custodia-Admin/pagebolt-mcp](https://github.com/Custodia-Admin/pagebolt-mcp)
+- [markmircea/Selenix-MCP-Server](https://github.com/markmircea/Selenix-MCP-Server)
+- [LvcidPsyche/auto-browser](https://github.com/LvcidPsyche/auto-browser)
+- [realwigu/mcp-doctor](https://github.com/realwigu/mcp-doctor)
+- [arnstarn/mcp-server-spotinst](https://github.com/arnstarn/mcp-server-spotinst)
+- [Labs64/NetLicensing-MCP](https://github.com/Labs64/NetLicensing-MCP)
+- [newageflyfish-max/volthq](https://github.com/newageflyfish-max/volthq)
+- [HanSur94/matlab-mcp-server-python](https://github.com/HanSur94/matlab-mcp-server-python)
+- [kagan-sh/kagan](https://github.com/kagan-sh/kagan)
+- [Touchpoint-Labs/touchpoint](https://github.com/Touchpoint-Labs/touchpoint)
+- [raychao-oao/pty-mcp](https://github.com/raychao-oao/pty-mcp)
+- [clawaimail/mcp](https://github.com/joansongjr/clawaimail)
+
+_(and 179 more — see known_servers.json)_
+
 ## 2026-03-23
 
 ### 86 New MCP Servers Discovered
