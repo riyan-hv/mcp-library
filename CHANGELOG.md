@@ -5,6 +5,37 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-04-13
+
+### 26 New MCP Servers Discovered
+
+- [ymw0407/auth-fetch-mcp](https://github.com/ymw0407/auth-fetch-mcp)
+- [alexpota/cloudscope-mcp](https://github.com/alexpota/cloudscope-mcp)
+- [Wopee-io/wopee-mcp](https://github.com/Wopee-io/wopee-mcp)
+- [vkhanhqui/figma-mcp-go](https://github.com/vkhanhqui/figma-mcp-go)
+- [tactual-dev/tactual](https://github.com/tactual-dev/tactual)
+- [subhatta123/twilize](https://github.com/subhatta123/twilize)
+- [ONE8943/ai-furniture-hub](https://github.com/ONE8943/ai-furniture-hub)
+- [botwallet-co/mcp](https://github.com/botwallet-co/mcp)
+- [4dmrkey/cryptopolitan-mcp](https://github.com/4dmrkey/cryptopolitan-mcp)
+- [Fund-z/fundzwatch-mcp](https://github.com/Fund-z/fundzwatch-mcp)
+- [giskard09/argentum-core](https://github.com/giskard09/argentum-core)
+- [QuantOracledev/quantoracle](https://github.com/QuantOracledev/quantoracle)
+- [spfunctions/simplefunctions-cli](https://github.com/spfunctions/simplefunctions-cli)
+- [3aKHP/prts-mcp](https://github.com/3aKHP/prts-mcp)
+- [andreas-roennestad/openhive-mcp](https://github.com/andreas-roennestad/openhive-mcp)
+- [decisionnode/DecisionNode](https://github.com/decisionnode/DecisionNode)
+- [KVANTRA-dev/NOUZ-MCP](https://github.com/KVANTRA-dev/NOUZ-MCP)
+- [baphometnxg/aloha-fyi-mcp](https://github.com/baphometnxg/aloha-fyi-mcp)
+- [competlab/competlab-mcp-server](https://github.com/competlab/competlab-mcp-server)
+- [Sweeppea-Development-Lab/sweeppea-mcp-info](https://github.com/Sweeppea-Development-Lab/sweeppea-mcp-info)
+- [Lukaris/framedeck-mcp](https://github.com/Lukaris/framedeck-mcp)
+- [Khamel83/argus](https://github.com/Khamel83/argus)
+- [iamredmh/volta-mcp-server](https://github.com/iamredmh/volta-mcp-server)
+- [Xquik-dev/x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper)
+- [backloghq/backlog](https://github.com/backloghq/backlog)
+- [sunsiyuan/human-survey](https://github.com/sunsiyuan/human-survey)
+
 ## 2026-04-06
 
 ### 209 New MCP Servers Discovered
