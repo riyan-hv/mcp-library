@@ -12111,7 +12111,391 @@
     {
       "name": "sunsiyuan/human-survey",
       "url": "https://github.com/sunsiyuan/human-survey"
+    },
+    {
+      "name": "codeislaw101/katzilla",
+      "url": "https://github.com/codeislaw101/katzilla"
+    },
+    {
+      "name": "malamutemayhem/unclick-agent-native-endpoints",
+      "url": "https://github.com/malamutemayhem/unclick-agent-native-endpoints"
+    },
+    {
+      "name": "Markgatcha/universal-mcp-toolkit",
+      "url": "https://github.com/Markgatcha/universal-mcp-toolkit"
+    },
+    {
+      "name": "AceDataCloud/MCPFlux",
+      "url": "https://github.com/AceDataCloud/FluxMCP"
+    },
+    {
+      "name": "AceDataCloud/MCPSeedream",
+      "url": "https://github.com/AceDataCloud/SeedreamMCP"
+    },
+    {
+      "name": "shunshi-ai/bazi-reader-mcp",
+      "url": "https://github.com/shunshi-ai/bazi-reader-mcp"
+    },
+    {
+      "name": "neptun2000/heor-agent-mcp",
+      "url": "https://github.com/neptun2000/heor-agent-mcp"
+    },
+    {
+      "name": "pkotecha-eng/aria-mcp-server",
+      "url": "https://github.com/pkotecha-eng/aria-mcp-server"
+    },
+    {
+      "name": "KuvopLLC/purroxy2",
+      "url": "https://github.com/KuvopLLC/purroxy2"
+    },
+    {
+      "name": "copperline-labs/rendex-mcp",
+      "url": "https://github.com/copperline-labs/rendex-mcp"
+    },
+    {
+      "name": "rikarazome/prolog-reasoner",
+      "url": "https://github.com/rikarazome/prolog-reasoner"
+    },
+    {
+      "name": "TT-Wang/forge",
+      "url": "https://github.com/TT-Wang/forge"
+    },
+    {
+      "name": "platfone-com/mcp",
+      "url": "https://github.com/platfone-com/mcp"
+    },
+    {
+      "name": "1luvc0d3/metabase-mcp",
+      "url": "https://github.com/1luvc0d3/metabase-mcp"
+    },
+    {
+      "name": "meacheal-ai/mrc-data",
+      "url": "https://github.com/meacheal-ai/mrc-data"
+    },
+    {
+      "name": "mbrummerstedt/powerbi-analyst-mcp",
+      "url": "https://github.com/mbrummerstedt/powerbi-analyst-mcp"
+    },
+    {
+      "name": "Leekangbum/networklytics-mcp",
+      "url": "https://github.com/Leekangbum/networklytics-mcp"
+    },
+    {
+      "name": "sapph1re/mcp-billing-gateway-sdk",
+      "url": "https://github.com/sapph1re/mcp-billing-gateway-sdk"
+    },
+    {
+      "name": "agenticempire/axint",
+      "url": "https://github.com/agenticempire/axint"
+    },
+    {
+      "name": "EtienneChollet/ontomics",
+      "url": "https://github.com/EtienneChollet/ontomics"
+    },
+    {
+      "name": "mvtandas/wp-cli-mcp",
+      "url": "https://github.com/mvtandas/wp-cli-mcp"
+    },
+    {
+      "name": "GeiserX/atlassian-browser-mcp",
+      "url": "https://github.com/GeiserX/atlassian-browser-mcp"
+    },
+    {
+      "name": "ethbak/icon-composer-mcp",
+      "url": "https://github.com/ethbak/icon-composer-mcp"
+    },
+    {
+      "name": "andrewschreiber/desktopinsights-mcp",
+      "url": "https://github.com/andrewschreiber/desktopinsights-mcp"
+    },
+    {
+      "name": "PhpCodeArcheology/PhpCodeArcheology",
+      "url": "https://github.com/PhpCodeArcheology/PhpCodeArcheology"
+    },
+    {
+      "name": "Contentrain/ai",
+      "url": "https://github.com/Contentrain/ai"
+    },
+    {
+      "name": "eyaushev/swagger-testcase-mcp",
+      "url": "https://github.com/eyaushev/swagger-testcase-mcp"
+    },
+    {
+      "name": "James-Chahwan/repo-graph",
+      "url": "https://github.com/James-Chahwan/repo-graph"
+    },
+    {
+      "name": "muhannad-hash/git-context-mcp",
+      "url": "https://github.com/muhannad-hash/git-context-mcp"
+    },
+    {
+      "name": "sarveshsea/m-moire",
+      "url": "https://github.com/sarveshsea/m-moire"
+    },
+    {
+      "name": "VrtxOmega/omega-brain-mcp",
+      "url": "https://github.com/VrtxOmega/omega-brain-mcp"
+    },
+    {
+      "name": "whyy9527/ariadne",
+      "url": "https://github.com/whyy9527/ariadne"
+    },
+    {
+      "name": "drumst0ck/uploadkit",
+      "url": "https://github.com/drumst0ck/uploadkit"
+    },
+    {
+      "name": "leap-laboratories/discovery-engine",
+      "url": "https://github.com/leap-laboratories/discovery-engine"
+    },
+    {
+      "name": "mrslbt/rakuten-mcp",
+      "url": "https://github.com/mrslbt/rakuten-mcp"
+    },
+    {
+      "name": "mrslbt/xendit-mcp",
+      "url": "https://github.com/mrslbt/xendit-mcp"
+    },
+    {
+      "name": "bakyang2/kr-crypto-intelligence",
+      "url": "https://github.com/bakyang2/kr-crypto-intelligence"
+    },
+    {
+      "name": "chrisbusbin-pixel/propfirmdealfinder-mcp-server",
+      "url": "https://github.com/chrisbusbin-pixel/propfirmdealfinder-mcp-server"
+    },
+    {
+      "name": "connerlambden/helium-mcp",
+      "url": "https://github.com/connerlambden/helium-mcp"
+    },
+    {
+      "name": "demwick/polymarket-agent-mcp",
+      "url": "https://github.com/demwick/polymarket-agent-mcp"
+    },
+    {
+      "name": "Hovsteder/powersun-tron-mcp",
+      "url": "https://github.com/Hovsteder/powersun-tron-mcp"
+    },
+    {
+      "name": "MeshLedger/MeshLedger",
+      "url": "https://github.com/MeshLedger/MeshLedger"
+    },
+    {
+      "name": "vdmeu/registrum-mcp",
+      "url": "https://github.com/vdmeu/registrum-mcp"
+    },
+    {
+      "name": "szhygulin/recon-crypto-mcp",
+      "url": "https://github.com/szhygulin/recon-crypto-mcp"
+    },
+    {
+      "name": "tunedforai/x402-mcp",
+      "url": "https://github.com/tunedforai/x402-mcp"
+    },
+    {
+      "name": "buildepicshit/Wick",
+      "url": "https://github.com/buildepicshit/Wick"
+    },
+    {
+      "name": "rkocosmergon/cosmergon-agent",
+      "url": "https://github.com/rkocosmergon/cosmergon-agent"
+    },
+    {
+      "name": "bitatlas-group/bitatlas",
+      "url": "https://github.com/bitatlas-group/bitatlas"
+    },
+    {
+      "name": "cdeust/Cortex",
+      "url": "https://github.com/cdeust/Cortex"
+    },
+    {
+      "name": "celiums/celiums-memory",
+      "url": "https://github.com/terrizoaguimor/celiums-memory"
+    },
+    {
+      "name": "XJTLUmedia/Context-First-MCP",
+      "url": "https://github.com/XJTLUmedia/Context-First-MCP"
+    },
+    {
+      "name": "edobusy/agenthold",
+      "url": "https://github.com/edobusy/agenthold"
+    },
+    {
+      "name": "giskard09/giskard-oasis",
+      "url": "https://github.com/giskard09/giskard-oasis"
+    },
+    {
+      "name": "LuizEduPP/rememb",
+      "url": "https://github.com/LuizEduPP/Rememb"
+    },
+    {
+      "name": "nfemmanuel/iranti",
+      "url": "https://github.com/nfemmanuel/iranti"
+    },
+    {
+      "name": "peterbeck111/knowledgelib-io",
+      "url": "https://github.com/peterbeck111/knowledgelib-io"
+    },
+    {
+      "name": "roampal-ai/roampal-core",
+      "url": "https://github.com/roampal-ai/roampal-core"
+    },
+    {
+      "name": "TT-Wang/cortex-plugin",
+      "url": "https://github.com/TT-Wang/cortex-plugin"
+    },
+    {
+      "name": "yakuphanycl/instinct",
+      "url": "https://github.com/yakuphanycl/instinct"
+    },
+    {
+      "name": "NexusFeed/nexusfeed-mcp",
+      "url": "https://github.com/NexusFeed/nexusfeed-mcp"
+    },
+    {
+      "name": "PostalDataPI/postaldatapi-mcp",
+      "url": "https://github.com/PostalDataPI/postaldatapi-mcp"
+    },
+    {
+      "name": "Brand-System/brandsystem-mcp",
+      "url": "https://github.com/Brand-System/brandsystem-mcp"
+    },
+    {
+      "name": "grovs-io/mcp",
+      "url": "https://github.com/grovs-io/mcp"
+    },
+    {
+      "name": "MailboxValidator/mcp-mailboxvalidator",
+      "url": "https://github.com/MailboxValidator/mcp-mailboxvalidator"
+    },
+    {
+      "name": "qr-maker-io/mcp-server",
+      "url": "https://github.com/qr-maker-io/mcp-server"
+    },
+    {
+      "name": "alimuratkuslu/byok-observability-mcp",
+      "url": "https://github.com/alimuratkuslu/byok-observability-mcp"
+    },
+    {
+      "name": "AceDataCloud/MCPSuno",
+      "url": "https://github.com/AceDataCloud/SunoMCP"
+    },
+    {
+      "name": "drolosoft/immich-photo-manager",
+      "url": "https://github.com/drolosoft/immich-photo-manager"
+    },
+    {
+      "name": "gaudiolab-jp/gaudio-developers-mcp",
+      "url": "https://github.com/gaudiolab-jp/gaudio-developers-mcp"
+    },
+    {
+      "name": "mordor-forge/gemini-media-mcp",
+      "url": "https://github.com/mordor-forge/gemini-media-mcp"
+    },
+    {
+      "name": "mordor-forge/trident-mcp",
+      "url": "https://github.com/mordor-forge/trident-mcp"
+    },
+    {
+      "name": "sbuysse/gnome-desktop-mcp",
+      "url": "https://github.com/sbuysse/gnome-desktop-mcp"
+    },
+    {
+      "name": "TylerIlunga/procore-mcp-server",
+      "url": "https://github.com/TylerIlunga/procore-mcp-server"
+    },
+    {
+      "name": "connerlambden/bgpt-mcp",
+      "url": "https://github.com/connerlambden/bgpt-mcp"
+    },
+    {
+      "name": "mrslbt/rippr",
+      "url": "https://github.com/mrslbt/rippr"
+    },
+    {
+      "name": "KyuRish/fiverr-mcp-server",
+      "url": "https://github.com/KyuRish/fiverr-mcp-server"
+    },
+    {
+      "name": "ip2whois/mcp-ip2whois",
+      "url": "https://github.com/ip2whois/mcp-ip2whois"
+    },
+    {
+      "name": "NameetP/pdfmux",
+      "url": "https://github.com/NameetP/pdfmux"
+    },
+    {
+      "name": "123Ergo/unphurl-mcp",
+      "url": "https://github.com/123Ergo/unphurl-mcp"
+    },
+    {
+      "name": "agentgraph-co/agentgraph",
+      "url": "https://github.com/agentgraph-co/agentgraph"
+    },
+    {
+      "name": "arian-gogani/nobulex",
+      "url": "https://github.com/arian-gogani/nobulex"
+    },
+    {
+      "name": "goldmembrane/cleaner-code",
+      "url": "https://github.com/goldmembrane/cleaner-code"
+    },
+    {
+      "name": "itsalissonsilva/ModelSafetyMCP",
+      "url": "https://github.com/itsalissonsilva/ModelSafetyMCP"
+    },
+    {
+      "name": "jnMetaCode/shellward",
+      "url": "https://github.com/jnMetaCode/shellward"
+    },
+    {
+      "name": "Pentagonal-ai/pentagonal",
+      "url": "https://github.com/Pentagonal-ai/pentagonal"
+    },
+    {
+      "name": "zkproofport/proofport-ai",
+      "url": "https://github.com/zkproofport/proofport-ai"
+    },
+    {
+      "name": "OpenStoa",
+      "url": "https://github.com/zkproofport/openstoa"
+    },
+    {
+      "name": "BelleKou/mcp-viral-transformer",
+      "url": "https://github.com/BelleKou/mcp-viral-transformer"
+    },
+    {
+      "name": "peturgeorgievv-factory/postfast-mcp",
+      "url": "https://github.com/peturgeorgievv-factory/postfast-mcp"
+    },
+    {
+      "name": "haomingkoo/japan-seasons-mcp",
+      "url": "https://github.com/haomingkoo/japan-seasons-mcp"
+    },
+    {
+      "name": "shaikhspeare/wanderlog-mcp",
+      "url": "https://github.com/shaikhspeare/wanderlog-mcp"
+    },
+    {
+      "name": "benmonopoli/open-greenhouse-mcp",
+      "url": "https://github.com/benmonopoli/open-greenhouse-mcp"
+    },
+    {
+      "name": "corbym/backlog-mcp",
+      "url": "https://github.com/corbym/backlog-mcp"
+    },
+    {
+      "name": "urbanmorph/mdshare",
+      "url": "https://github.com/urbanmorph/mdshare"
+    },
+    {
+      "name": "XJTLUmedia/AI-HR-Management-Toolkit",
+      "url": "https://github.com/XJTLUmedia/AI-HR-Management-Toolkit"
+    },
+    {
+      "name": "yoryocoruxo-ai/rendoc-mcp-server",
+      "url": "https://github.com/yoryocoruxo-ai/rendoc-mcp-server"
     }
   ],
-  "last_updated": "2026-04-13"
+  "last_updated": "2026-04-20"
 }

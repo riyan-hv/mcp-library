@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-04-20
+
+### 96 New MCP Servers Discovered
+
+- [codeislaw101/katzilla](https://github.com/codeislaw101/katzilla)
+- [malamutemayhem/unclick-agent-native-endpoints](https://github.com/malamutemayhem/unclick-agent-native-endpoints)
+- [Markgatcha/universal-mcp-toolkit](https://github.com/Markgatcha/universal-mcp-toolkit)
+- [AceDataCloud/MCPFlux](https://github.com/AceDataCloud/FluxMCP)
+- [AceDataCloud/MCPSeedream](https://github.com/AceDataCloud/SeedreamMCP)
+- [shunshi-ai/bazi-reader-mcp](https://github.com/shunshi-ai/bazi-reader-mcp)
+- [neptun2000/heor-agent-mcp](https://github.com/neptun2000/heor-agent-mcp)
+- [pkotecha-eng/aria-mcp-server](https://github.com/pkotecha-eng/aria-mcp-server)
+- [KuvopLLC/purroxy2](https://github.com/KuvopLLC/purroxy2)
+- [copperline-labs/rendex-mcp](https://github.com/copperline-labs/rendex-mcp)
+- [rikarazome/prolog-reasoner](https://github.com/rikarazome/prolog-reasoner)
+- [TT-Wang/forge](https://github.com/TT-Wang/forge)
+- [platfone-com/mcp](https://github.com/platfone-com/mcp)
+- [1luvc0d3/metabase-mcp](https://github.com/1luvc0d3/metabase-mcp)
+- [meacheal-ai/mrc-data](https://github.com/meacheal-ai/mrc-data)
+- [mbrummerstedt/powerbi-analyst-mcp](https://github.com/mbrummerstedt/powerbi-analyst-mcp)
+- [Leekangbum/networklytics-mcp](https://github.com/Leekangbum/networklytics-mcp)
+- [sapph1re/mcp-billing-gateway-sdk](https://github.com/sapph1re/mcp-billing-gateway-sdk)
+- [agenticempire/axint](https://github.com/agenticempire/axint)
+- [EtienneChollet/ontomics](https://github.com/EtienneChollet/ontomics)
+- [mvtandas/wp-cli-mcp](https://github.com/mvtandas/wp-cli-mcp)
+- [GeiserX/atlassian-browser-mcp](https://github.com/GeiserX/atlassian-browser-mcp)
+- [ethbak/icon-composer-mcp](https://github.com/ethbak/icon-composer-mcp)
+- [andrewschreiber/desktopinsights-mcp](https://github.com/andrewschreiber/desktopinsights-mcp)
+- [PhpCodeArcheology/PhpCodeArcheology](https://github.com/PhpCodeArcheology/PhpCodeArcheology)
+- [Contentrain/ai](https://github.com/Contentrain/ai)
+- [eyaushev/swagger-testcase-mcp](https://github.com/eyaushev/swagger-testcase-mcp)
+- [James-Chahwan/repo-graph](https://github.com/James-Chahwan/repo-graph)
+- [muhannad-hash/git-context-mcp](https://github.com/muhannad-hash/git-context-mcp)
+- [sarveshsea/m-moire](https://github.com/sarveshsea/m-moire)
+
+_(and 66 more — see known_servers.json)_
+
 ## 2026-04-13
 
 ### 26 New MCP Servers Discovered
