@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-04-27
+
+### 149 New MCP Servers Discovered
+
+- [8randonpickart5/alderpost-mcp](https://github.com/8randonpickart5/alderpost-mcp)
+- [elisymlabs/elisym](https://github.com/elisymlabs/elisym)
+- [doggychip/agentforge](https://github.com/doggychip/agentforge)
+- [MastadoonPrime/sylex-search](https://github.com/MastadoonPrime/sylex-search)
+- [leonardoca1/aesthetics-wiki-mcp](https://github.com/leonardoca1/aesthetics-wiki-mcp)
+- [flowzap-xyz/flowzap-mcp](https://github.com/flowzap-xyz/flowzap-mcp)
+- [rdanieli/tentra-mcp](https://github.com/rdanieli/tentra-mcp)
+- [MyMedi-AI/mymedi-ai-mcp-server](https://github.com/MyMedi-AI/mymedi-ai-mcp-server)
+- [tatsuju/opdstar-nhi-mcp](https://github.com/tatsuju/opdstar-nhi-mcp)
+- [LeonTing1010/tap](https://github.com/LeonTing1010/tap)
+- [GeiserX/spinnaker-mcp](https://github.com/GeiserX/spinnaker-mcp)
+- [s-b-e-n-s-o-n/portkey-admin-mcp](https://github.com/s-b-e-n-s-o-n/portkey-admin-mcp)
+- [Woobox/hatchable-mcp](https://github.com/Woobox/hatchable-mcp)
+- [xmpuspus/cloudwright](https://github.com/xmpuspus/cloudwright)
+- [asif-nvc/e2b-sandbox-mcp](https://github.com/asif-nvc/e2b-sandbox-mcp)
+- [chernistry/bernstein](https://github.com/chernistry/bernstein)
+- [WhenLabs-org/when](https://github.com/WhenLabs-org/when)
+- [LukeLamb/claude-terminal-mcp](https://github.com/LukeLamb/claude-terminal-mcp)
+- [Beltran12138/wecom-docs-mcp-server](https://github.com/Beltran12138/wecom-docs-mcp-server)
+- [SirGreed808/zoho-mail-mcp](https://github.com/SirGreed808/zoho-mail-mcp)
+- [windborne/zulipmcp](https://github.com/windborne/zulipmcp)
+- [Zacccck/Claude-MCP-Read-Email-Attachments](https://github.com/Zacccck/Claude-MCP-Read-Email-Attachments)
+- [Michael2150/flamerobin-mcp-server](https://github.com/Michael2150/flamerobin-mcp-server)
+- [masondelan/selvedge](https://github.com/masondelan/selvedge)
+- [AI-by-design/primitiv](https://github.com/AI-by-design/primitiv)
+- [aidemd-mcp/server](https://github.com/aidemd-mcp/server)
+- [ellmos-ai/ellmos-codecommander-mcp](https://github.com/ellmos-ai/ellmos-codecommander-mcp)
+- [Muhammed-AbdelGhany/rest_api_mcp](https://github.com/Muhammed-AbdelGhany/rest_api_mcp)
+- [blackwell-systems/agent-lsp](https://github.com/blackwell-systems/agent-lsp)
+- [janaraj/tnl](https://github.com/janaraj/tnl)
+
+_(and 119 more — see known_servers.json)_
+
 ## 2026-04-20
 
 ### 96 New MCP Servers Discovered
