@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-05-04
+
+### 56 New MCP Servers Discovered
+
+- [alexanderclapp/clirank-mcp-server](https://github.com/alexanderclapp/clirank-mcp-server)
+- [cfpramod/open-museum-mcp](https://github.com/cfpramod/open-museum-mcp)
+- [bch1212/agentfetch-mcp](https://github.com/bch1212/agentfetch-mcp)
+- [Metadrama/obscura-mcp](https://github.com/Metadrama/obscura-mcp)
+- [agent-blueprint/mcp-server](https://github.com/agent-blueprint/mcp-server)
+- [avansaber/tailtest-cline](https://github.com/avansaber/tailtest-cline)
+- [sipyourdrink-ltd/bernstein](https://github.com/sipyourdrink-ltd/bernstein)
+- [hampsterx/claude-mcp-bridge](https://github.com/hampsterx/claude-mcp-bridge)
+- [Perspective-AI/mcp](https://github.com/Perspective-AI/mcp)
+- [ThinAirTelematics/thinair-data](https://github.com/ThinAirTelematics/thinair-data)
+- [Hug0x0/mcp-reunion](https://github.com/Hug0x0/mcp-reunion)
+- [drhalto/agentmako](https://github.com/drhalto/agentmako)
+- [marin1321/mcp-devtools](https://github.com/marin1321/mcp-devtools)
+- [IgorGanapolsky/ThumbGate](https://github.com/IgorGanapolsky/ThumbGate)
+- [tooluse-labs/perfetto-mcp-rs](https://github.com/tooluse-labs/perfetto-mcp-rs)
+- [Yang1Bai/claw-tsaver](https://github.com/Yang1Bai/claw-tsaver)
+- [pepabo/colormeshop-mcp](https://github.com/pepabo/colormeshop-mcp)
+- [@czagents/cnb](https://github.com/martinhavel/cz-agents-mcp)
+- [Haiku-Trading/haiku-mcp-server](https://github.com/Haiku-Trading/haiku-mcp-server)
+- [babyblueviper1/invinoveritas](https://github.com/babyblueviper1/invinoveritas)
+- [Liquidiction/liquidiction-mcp](https://github.com/Liquidiction/liquidiction-mcp)
+- [noblabs/lit-forge-mcp](https://github.com/noblabs/lit-forge-mcp)
+- [yli769227-jpg/ashare-mcp](https://github.com/yli769227-jpg/ashare-mcp)
+- [toolstem/toolstem-sec-mcp-server](https://github.com/toolstem/toolstem-sec-mcp-server)
+- [staccDOTsol/staccbot-tg](https://github.com/staccDOTsol/staccbot-tg)
+- [cipherfoxie/sovereign-mcp](https://github.com/cipherfoxie/sovereign-mcp)
+- [lfrmonteiro99/memento-mcp](https://github.com/lfrmonteiro99/memento-mcp)
+- [tverney/mcp-agent-memory](https://github.com/tverney/mcp-agent-memory)
+- [SubDownload/subdownload-mcp](https://github.com/SubDownload/subdownload-mcp)
+- [ThinAirTelematics/thinair-geo](https://github.com/ThinAirTelematics/thinair-geo)
+
+_(and 26 more — see known_servers.json)_
+
 ## 2026-04-27
 
 ### 149 New MCP Servers Discovered
