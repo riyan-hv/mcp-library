@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-06-01
+
+### 188 New MCP Servers Discovered
+
+- [zafronix/wc-mcp](https://github.com/zafronix/wc-mcp)
+- [garasegae/aiskillstore](https://github.com/garasegae/aiskillstore)
+- [cinderwright-ai/cinderwright-api](https://github.com/cinderwright-ai/cinderwright-api)
+- [Octodamus/octodamus-core](https://github.com/Octodamus/octodamus-core)
+- [sF1nX/x402station](https://github.com/sF1nX/x402station-mcp)
+- [Wolido/OpenAaaS](https://github.com/Wolido/OpenAaaS)
+- [Swarmwage/swarmwage](https://github.com/Swarmwage/swarmwage)
+- [AIDataNordic/alexandria-mcp](https://github.com/AIDataNordic/alexandria-mcp)
+- [clawdbotworker/imagegen-mcp](https://github.com/clawdbotworker/imagegen-mcp)
+- [delmas41/gradusnotation](https://github.com/delmas41/gradusnotation)
+- [pzfreo/build123d-mcp](https://github.com/pzfreo/build123d-mcp)
+- [ejwhite7/brandkit-mcp](https://github.com/ejwhite7/brandkit-mcp)
+- [karyaboyraz/mockit-mcp](https://github.com/karyaboyraz/mockit-mcp)
+- [salwks/mcp-techTrend](https://github.com/salwks/mcp-techTrend)
+- [PantelisGeorgiadis/dicomweb-mcp-server](https://github.com/PantelisGeorgiadis/dicomweb-mcp-server)
+- [SidneyBissoli/medical-terminologies-mcp](https://github.com/SidneyBissoli/medical-terminologies-mcp)
+- [sh6drack/zen-mcp](https://github.com/sh6drack/zen-mcp)
+- [hshintelligence/agent-scrape](https://github.com/hshintelligence/agent-scrape)
+- [protostatis/unbrowser](https://github.com/protostatis/unbrowser)
+- [AliKarami/MikroMCP](https://github.com/AliKarami/MikroMCP)
+- [shdomi8599/vibie-mcp](https://github.com/shdomi8599/vibie-mcp)
+- [ksterx/srunx](https://github.com/ksterx/srunx)
+- [ejentum/ejentum-mcp](https://github.com/ejentum/ejentum-mcp)
+- [PsChina/deepseek-as-subagent](https://github.com/PsChina/deepseek-as-subagent)
+- [PThrower/Strata](https://github.com/PThrower/Strata)
+- [eliottreich/taskbounty-mcp-server](https://github.com/eliottreich/taskbounty-mcp-server)
+- [HasanJahidul/terminal-history-mcp](https://github.com/HasanJahidul/terminal-history-mcp)
+- [agenticmail/agenticmail](https://github.com/agenticmail/agenticmail)
+- [AutomateLab-tech/content-distribution-mcp](https://github.com/AutomateLab-tech/content-distribution-mcp)
+- [EthanQC/feishu-user-plugin](https://github.com/EthanQC/feishu-user-plugin)
+
+_(and 158 more — see known_servers.json)_
+
 ## 2026-05-04
 
 ### 56 New MCP Servers Discovered
