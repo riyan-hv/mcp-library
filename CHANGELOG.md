@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-06-08
+
+### 138 New MCP Servers Discovered
+
+- [forgemeshlabs/coinopai-mcp](https://github.com/forgemeshlabs/coinopai-mcp)
+- [Continuum-AI-Corp/orcarouter-mcp-server](https://github.com/Continuum-AI-Corp/orcarouter-mcp-server)
+- [ertad-family/liquid](https://github.com/ertad-family/liquid)
+- [alexzavialov/travel-art-mcp](https://github.com/alexzavialov/travel-art-mcp)
+- [forgemeshlabs/imagegen-mcp](https://github.com/forgemeshlabs/imagegen-mcp)
+- [clanker-records/crompton-network](https://github.com/clanker-records/crompton-network)
+- [j-east/pixel-surgeon-mcp](https://github.com/j-east/pixel-surgeon-mcp)
+- [Pantani/tdmcp](https://github.com/Pantani/tdmcp)
+- [rosasynthesiz/flstudio-mcp](https://github.com/rosasynthesiz/flstudio-mcp)
+- [musharna/plant-genomics-mcp](https://github.com/musharna/plant-genomics-mcp)
+- [pubspro/pubmed-search](https://github.com/pubspro/pubmed-search)
+- [swimmwatch/cloakbrowser-mcp](https://github.com/swimmwatch/cloakbrowser-mcp)
+- [Mogacode-ma/infomaniak-mcp-agent](https://github.com/Mogacode-ma/infomaniak-mcp-agent)
+- [nikhilnt1234/TokenBurnRate](https://github.com/nikhilnt1234/TokenBurnRate)
+- [rosenvladimirov/odoo-claude-mcp](https://github.com/rosenvladimirov/odoo-claude-mcp)
+- [Sidd27/infrawise](https://github.com/Sidd27/infrawise)
+- [zw008/VMware-AVI](https://github.com/zw008/VMware-AVI)
+- [zw008/VMware-Monitor](https://github.com/zw008/VMware-Monitor)
+- [zw008/VMware-Storage](https://github.com/zw008/VMware-Storage)
+- [dugubuyan/agent-nexus](https://github.com/dugubuyan/agent-nexus)
+- [HasanJahidul/localhost-mcp](https://github.com/HasanJahidul/localhost-mcp)
+- [getpoststack/mcp](https://github.com/getpoststack/mcp)
+- [sethbang/proton-mail-mcp](https://github.com/sethbang/proton-mail-mcp)
+- [leshchenko1979/fast-mcp-telegram](https://github.com/leshchenko1979/fast-mcp-telegram)
+- [liuboacean/agent-comm-hub](https://github.com/liuboacean/agent-comm-hub)
+- [mohitbadwal/ringback](https://github.com/mohitbadwal/ringback)
+- [narekmalk/safedb-mcp](https://github.com/narekmalk/safedb-mcp)
+- [vinvuk/apiverket-mcp](https://github.com/vinvuk/apiverket-mcp)
+- [FreelexHo/power-bi-mcp](https://github.com/FreelexHo/power-bi-mcp)
+- [Younghef/nutriref-api](https://github.com/Younghef/nutriref-api)
+
+_(and 108 more — see known_servers.json)_
+
 ## 2026-06-01
 
 ### 188 New MCP Servers Discovered
