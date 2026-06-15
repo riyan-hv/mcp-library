@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-06-15
+
+### 127 New MCP Servers Discovered
+
+- [Tool Definition Quality Score (TDQS)](https://github.com/glama-ai/tool-definition-quality-score)
+- [alexar76/aimarket-plugins](https://github.com/alexar76/aimarket-plugins)
+- [malamutemayhem/unclick](https://github.com/malamutemayhem/unclick)
+- [mambalabsdev/mcp-gtm-suite](https://github.com/mambalabsdev/mcp-gtm-suite)
+- [mroops0111/openapi-mcp-gateway](https://github.com/mroops0111/openapi-mcp-gateway)
+- [mgnirck/lecka-mcp](https://github.com/mgnirck/lecka-mcp)
+- [Cubenest/rrweb-stack](https://github.com/Cubenest/rrweb-stack)
+- [feedthrough/feedthrough](https://github.com/feedthrough/feedthrough)
+- [Lyosis/claudeForSafari](https://github.com/Lyosis/claudeForSafari)
+- [lyrenth/lyrenth-mcp](https://github.com/lyrenth/lyrenth-mcp)
+- [Mingye-Lu/AgenticCrawler](https://github.com/Mingye-Lu/AgenticCrawler)
+- [site-shot/site-shot-mcp](https://github.com/site-shot/site-shot-mcp)
+- [anythink-cloud/anythink-cli](https://github.com/anythink-cloud/anythink-cli)
+- [Infrawise/mcp-server](https://github.com/Infrawise/mcp-server)
+- [ionos-cloud/ionoscloud-mcp](https://github.com/ionos-cloud/ionoscloud-mcp)
+- [zw008/VMware-AIops](https://github.com/zw008/VMware-AIops)
+- [zw008/VMware-NSX](https://github.com/zw008/VMware-NSX)
+- [zw008/VMware-NSX-Security](https://github.com/zw008/VMware-NSX-Security)
+- [zw008/VMware-VKS](https://github.com/zw008/VMware-VKS)
+- [musharna/jobd](https://github.com/musharna/jobd)
+- [bvisible/mcp-ssh-manager](https://github.com/bvisible/mcp-ssh-manager)
+- [zb-ss/servonaut](https://github.com/zb-ss/servonaut)
+- [helbertparanhos/resend-email-mcp](https://github.com/helbertparanhos/resend-email-mcp)
+- [TheSameAbramovych/qmailing-mcp-server](https://github.com/TheSameAbramovych/qmailing-mcp-server)
+- [mouse114514/Xadeus-QQ-MCP](https://github.com/mouse114514/Xadeus-QQ-MCP)
+- [OrygnsCode/Omnicord](https://github.com/OrygnsCode/Omnicord)
+- [tlennon-ie/neurodock](https://github.com/tlennon-ie/neurodock)
+- [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server)
+- [ckalima/pipedrive-mcp-server](https://github.com/ckalima/pipedrive-mcp-server)
+- [mambalabsdev/mcp-icp-fit-scorer](https://github.com/mambalabsdev/mcp-icp-fit-scorer)
+
+_(and 97 more — see known_servers.json)_
+
 ## 2026-06-08
 
 ### 138 New MCP Servers Discovered
