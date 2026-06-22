@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-06-22
+
+### 99 New MCP Servers Discovered
+
+- [2s-io/sdk](https://github.com/2s-io/sdk)
+- [HelpCode-ai/anythingmcp](https://github.com/HelpCode-ai/anythingmcp)
+- [jabbawocky/proposalcraft](https://github.com/jabbawocky/proposalcraft)
+- [Pantani/ableton-mind](https://github.com/Pantani/ableton-mind)
+- [yenchieh/diagramzu-mcp](https://github.com/yenchieh/diagramzu-mcp)
+- [bgaze/snapstack-server](https://github.com/bgaze/snapstack-server)
+- [corralimited/snapdiff-mcp](https://github.com/corralimited/snapdiff-mcp)
+- [prufa-dev/prufa-mcp](https://github.com/prufa-dev/prufa-mcp)
+- [Focus-GTS/eds-mcp-server](https://github.com/Focus-GTS/eds-mcp-server)
+- [agentmetal/mcp](https://github.com/agentmetal/mcp)
+- [friendlygeorge/docker-mcp-server](https://github.com/friendlygeorge/docker-mcp-server)
+- [helbertparanhos/easypanel-mcp-server](https://github.com/helbertparanhos/easypanel-mcp-server)
+- [sshahzaiib/agy-bridge](https://github.com/sshahzaiib/agy-bridge)
+- [aresyn/codex-control-plane-mcp](https://github.com/aresyn/codex-control-plane-mcp)
+- [laszlopere/mcp-tmux](https://github.com/laszlopere/mcp-tmux)
+- [arbengine/mailbox-mcp](https://github.com/arbengine/mailbox-mcp)
+- [Sequenzy/mcp](https://github.com/Sequenzy/mcp)
+- [laszlopere/mcp-bytesmith](https://github.com/laszlopere/mcp-bytesmith)
+- [Arun-kc/schemabrain](https://github.com/Arun-kc/schemabrain)
+- [Alessandro114/scala-mcp-server](https://github.com/Alessandro114/scala-mcp-server)
+- [us-all/airflow-mcp-server](https://github.com/us-all/airflow-mcp-server)
+- [appcreationsca/bumpguard-mcp](https://github.com/appcreationsca/bumpguard-mcp)
+- [getnahook/nahook-mcp](https://github.com/getnahook/nahook-mcp)
+- [tatavarthitarun/nowsecure-mcp-server](https://github.com/tatavarthitarun/nowsecure-mcp-server)
+- [microservices-sh/mcp](https://github.com/microservices-sh/mcp)
+- [mockherodev/mcp-server](https://github.com/dinosaur24/mockhero)
+- [skyhook-io/radar](https://github.com/skyhook-io/radar)
+- [Disentinel/grafema](https://github.com/Disentinel/grafema)
+- [laszlopere/mcp-abacus](https://github.com/laszlopere/mcp-abacus)
+- [xfloukiex-lab/laugh-tale](https://github.com/xfloukiex-lab/laugh-tale)
+
+_(and 69 more — see known_servers.json)_
+
 ## 2026-06-15
 
 ### 127 New MCP Servers Discovered
