@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-06-29
+
+### 32 New MCP Servers Discovered
+
+- [GTCC777/pulsenetwork-mcp](https://github.com/GTCC777/pulsenetwork-mcp)
+- [scotia1973-bot/api-hub](https://github.com/scotia1973-bot/api-hub)
+- [BluesPrince/thiri-mcp](https://github.com/BluesPrince/thiri-mcp)
+- [seleniumboot/selenium-mcp](https://github.com/seleniumboot/selenium-mcp)
+- [SebastianGilPinzon/colab-mcp](https://github.com/SebastianGilPinzon/colab-mcp)
+- [faizbawa/mcp-remote-ssh](https://github.com/faizbawa/mcp-remote-ssh)
+- [jcoulaud/shipmail-mcp](https://github.com/jcoulaud/shipmail-mcp)
+- [mahAnuj/mcp-multi-db](https://github.com/mahAnuj/mcp-multi-db)
+- [SurajKGoyal/amnesic](https://github.com/SurajKGoyal/amnesic)
+- [Michael-WhiteCapData/ollama-handoff](https://github.com/Michael-WhiteCapData/ollama-handoff)
+- [ozers/hooksense-mcp](https://github.com/ozers/hooksense-mcp)
+- [Eltortilla1/synapse-code-mcp](https://github.com/Eltortilla1/synapse-code-mcp)
+- [deslay1/amendor-mcp](https://github.com/deslay1/amendor-mcp)
+- [LS-SIEM-LLP/qa-probe](https://github.com/LS-SIEM-LLP/qa-probe)
+- [chohyerinn/filter-mcp-server](https://github.com/chohyerinn/filter-mcp-server)
+- [ByteAsk/ByteAsk-Embedded-MCP](https://github.com/ByteAsk/ByteAsk-Embedded-MCP)
+- [bzsanti/oxidize-python](https://github.com/bzsanti/oxidize-python)
+- [InnarM/blank-invoice-maker-mcp](https://github.com/InnarM/blank-invoice-maker-mcp)
+- [ocbenji/bitcoinbenji-mcp](https://github.com/ocbenji/bitcoinbenji-mcp)
+- [bevanding/signaldaemon](https://github.com/bevanding/signaldaemon)
+- [eidetic-works/nucleus-mcp](https://github.com/eidetic-works/nucleus-mcp)
+- [japlete/md-vision-mcp](https://github.com/japlete/md-vision-mcp)
+- [jabbawocky/statuscraft](https://github.com/jabbawocky/statuscraft)
+- [sudomichael/gizmoanalytics-mcp](https://github.com/sudomichael/gizmoanalytics-mcp)
+- [woladi/macos-vision-mcp](https://github.com/woladi/macos-vision-mcp)
+- [mambalabsdev/mcp-company-firmographic-enricher](https://github.com/mambalabsdev/mcp-company-firmographic-enricher)
+- [Perufitlife/web-exposure-mcp](https://github.com/Perufitlife/web-exposure-mcp)
+- [eliottreich/taskbounty-check](https://github.com/eliottreich/taskbounty-check)
+- [forgemeshlabs/travel-agent-mcp](https://github.com/forgemeshlabs/travel-agent-mcp)
+- [bzdOS/hubd](https://github.com/bzdOS/hubd)
+
+_(and 2 more — see known_servers.json)_
+
 ## 2026-06-22
 
 ### 99 New MCP Servers Discovered
