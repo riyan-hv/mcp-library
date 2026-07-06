@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-07-06
+
+### 46 New MCP Servers Discovered
+
+- [awdr74100/figwright](https://github.com/awdr74100/figwright)
+- [segentic-lab/periscope-mcp](https://github.com/segentic-lab/periscope-mcp)
+- [GavinLucas/docker-mcp](https://github.com/GavinLucas/docker-mcp)
+- [helbertparanhos/cloudflare-mcp-pro](https://github.com/helbertparanhos/cloudflare-mcp-pro)
+- [x7even/cloudcostsmcp](https://github.com/x7even/cloudcostsmcp)
+- [danieldoderlein/llm-bus](https://github.com/danieldoderlein/llm-bus)
+- [jigyasudham/veto](https://github.com/jigyasudham/veto)
+- [blinkingbit-oss/execkit](https://github.com/blinkingbit-oss/execkit)
+- [farukkolip/xtapdown-mcp](https://github.com/farukkolip/xtapdown-mcp)
+- [Nishant-Chaudhary5338/mcp-code-indexer](https://github.com/Nishant-Chaudhary5338/mcp-code-indexer)
+- [jcooley8/pincushion-plugin](https://github.com/jcooley8/pincushion-plugin)
+- [laszlopere/mcp-gnu-units](https://github.com/laszlopere/mcp-gnu-units)
+- [wkalidev/multichain-mcp](https://github.com/wkalidev/multichain-mcp)
+- [alforge-labs/alpha-forge-mcp](https://github.com/alforge-labs/alpha-forge-mcp)
+- [none298-dotcom/mylinedchart-mcp-chart-context](https://github.com/none298-dotcom/mylinedchart-mcp-chart-context)
+- [signal8ai/signal8-mcp](https://github.com/signal8ai/signal8-mcp)
+- [subsquid-labs/portal-mcp-server](https://github.com/subsquid-labs/portal-mcp-server)
+- [ENTIA-IA/entia-mcp-server](https://github.com/ENTIA-IA/entia-mcp-server)
+- [AshutoshRaj97/agentready-mcp](https://github.com/AshutoshRaj97/agentready-mcp)
+- [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery)
+- [HBarefoot/engram](https://github.com/HBarefoot/engram)
+- [samvallad33/vestige](https://github.com/samvallad33/vestige)
+- [VonderVuflya/Yggdrasil](https://github.com/VonderVuflya/Yggdrasil)
+- [atomno-labs/mcp-sudact](https://github.com/atomno-labs/mcp-sudact)
+- [conformi-eu/conformi-search-mcp](https://github.com/conformi-eu/conformi-search-mcp)
+- [sarefe12-sudo/visibilityradar-mcp](https://github.com/sarefe12-sudo/visibilityradar-mcp)
+- [maxaeo/maxaeo-ai-visibility-mcp](https://github.com/maxaeo/maxaeo-ai-visibility-mcp)
+- [PascaleBeier/hitkeep](https://github.com/PascaleBeier/hitkeep)
+- [SEOcrawl/seocrawl-mcp](https://github.com/SEOcrawl/seocrawl-mcp)
+- [arnavranjan005/mcp-telemetry](https://github.com/arnavranjan005/mcp-telemetry)
+
+_(and 16 more — see known_servers.json)_
+
 ## 2026-06-29
 
 ### 32 New MCP Servers Discovered

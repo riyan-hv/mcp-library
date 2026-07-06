@@ -15651,7 +15651,191 @@
     {
       "name": "kfuras/notipo-app",
       "url": "https://github.com/kfuras/notipo-app"
+    },
+    {
+      "name": "awdr74100/figwright",
+      "url": "https://github.com/awdr74100/figwright"
+    },
+    {
+      "name": "segentic-lab/periscope-mcp",
+      "url": "https://github.com/segentic-lab/periscope-mcp"
+    },
+    {
+      "name": "GavinLucas/docker-mcp",
+      "url": "https://github.com/GavinLucas/docker-mcp"
+    },
+    {
+      "name": "helbertparanhos/cloudflare-mcp-pro",
+      "url": "https://github.com/helbertparanhos/cloudflare-mcp-pro"
+    },
+    {
+      "name": "x7even/cloudcostsmcp",
+      "url": "https://github.com/x7even/cloudcostsmcp"
+    },
+    {
+      "name": "danieldoderlein/llm-bus",
+      "url": "https://github.com/danieldoderlein/llm-bus"
+    },
+    {
+      "name": "jigyasudham/veto",
+      "url": "https://github.com/jigyasudham/veto"
+    },
+    {
+      "name": "blinkingbit-oss/execkit",
+      "url": "https://github.com/blinkingbit-oss/execkit"
+    },
+    {
+      "name": "farukkolip/xtapdown-mcp",
+      "url": "https://github.com/farukkolip/xtapdown-mcp"
+    },
+    {
+      "name": "Nishant-Chaudhary5338/mcp-code-indexer",
+      "url": "https://github.com/Nishant-Chaudhary5338/mcp-code-indexer"
+    },
+    {
+      "name": "jcooley8/pincushion-plugin",
+      "url": "https://github.com/jcooley8/pincushion-plugin"
+    },
+    {
+      "name": "laszlopere/mcp-gnu-units",
+      "url": "https://github.com/laszlopere/mcp-gnu-units"
+    },
+    {
+      "name": "wkalidev/multichain-mcp",
+      "url": "https://github.com/wkalidev/multichain-mcp"
+    },
+    {
+      "name": "alforge-labs/alpha-forge-mcp",
+      "url": "https://github.com/alforge-labs/alpha-forge-mcp"
+    },
+    {
+      "name": "none298-dotcom/mylinedchart-mcp-chart-context",
+      "url": "https://github.com/none298-dotcom/mylinedchart-mcp-chart-context"
+    },
+    {
+      "name": "signal8ai/signal8-mcp",
+      "url": "https://github.com/signal8ai/signal8-mcp"
+    },
+    {
+      "name": "subsquid-labs/portal-mcp-server",
+      "url": "https://github.com/subsquid-labs/portal-mcp-server"
+    },
+    {
+      "name": "ENTIA-IA/entia-mcp-server",
+      "url": "https://github.com/ENTIA-IA/entia-mcp-server"
+    },
+    {
+      "name": "AshutoshRaj97/agentready-mcp",
+      "url": "https://github.com/AshutoshRaj97/agentready-mcp"
+    },
+    {
+      "name": "gamosoft/NoteDiscovery",
+      "url": "https://github.com/gamosoft/NoteDiscovery"
+    },
+    {
+      "name": "HBarefoot/engram",
+      "url": "https://github.com/HBarefoot/engram"
+    },
+    {
+      "name": "samvallad33/vestige",
+      "url": "https://github.com/samvallad33/vestige"
+    },
+    {
+      "name": "VonderVuflya/Yggdrasil",
+      "url": "https://github.com/VonderVuflya/Yggdrasil"
+    },
+    {
+      "name": "atomno-labs/mcp-sudact",
+      "url": "https://github.com/atomno-labs/mcp-sudact"
+    },
+    {
+      "name": "conformi-eu/conformi-search-mcp",
+      "url": "https://github.com/conformi-eu/conformi-search-mcp"
+    },
+    {
+      "name": "sarefe12-sudo/visibilityradar-mcp",
+      "url": "https://github.com/sarefe12-sudo/visibilityradar-mcp"
+    },
+    {
+      "name": "maxaeo/maxaeo-ai-visibility-mcp",
+      "url": "https://github.com/maxaeo/maxaeo-ai-visibility-mcp"
+    },
+    {
+      "name": "PascaleBeier/hitkeep",
+      "url": "https://github.com/PascaleBeier/hitkeep"
+    },
+    {
+      "name": "SEOcrawl/seocrawl-mcp",
+      "url": "https://github.com/SEOcrawl/seocrawl-mcp"
+    },
+    {
+      "name": "arnavranjan005/mcp-telemetry",
+      "url": "https://github.com/arnavranjan005/mcp-telemetry"
+    },
+    {
+      "name": "a-y-ibrahim/after-effects-mcp",
+      "url": "https://github.com/a-y-ibrahim/after-effects-mcp"
+    },
+    {
+      "name": "pedra-ai/pedra-mcp",
+      "url": "https://github.com/pedra-ai/pedra-mcp"
+    },
+    {
+      "name": "dhamma-seeker/tripitaka-mcp",
+      "url": "https://github.com/dhamma-seeker/tripitaka-mcp"
+    },
+    {
+      "name": "newsagentdata/newsagent-mcp",
+      "url": "https://github.com/newsagentdata/newsagent-mcp"
+    },
+    {
+      "name": "keenableai/keenable-mcp",
+      "url": "https://github.com/keenableai/keenable-mcp"
+    },
+    {
+      "name": "AI-Directory-Partners/tooldirectory-mcp",
+      "url": "https://github.com/AI-Directory-Partners/tooldirectory-mcp"
+    },
+    {
+      "name": "astafford8488/agentaegis-mcp",
+      "url": "https://github.com/astafford8488/agentaegis-mcp"
+    },
+    {
+      "name": "ajipurn/fida",
+      "url": "https://github.com/ajipurn/fida"
+    },
+    {
+      "name": "beeswaxpat/chronoverify-mcp",
+      "url": "https://github.com/beeswaxpat/chronoverify-mcp"
+    },
+    {
+      "name": "mrz1880/mcp-keycloak-admin",
+      "url": "https://github.com/mrz1880/mcp-keycloak-admin"
+    },
+    {
+      "name": "farukkolip/tiktapdown-mcp",
+      "url": "https://github.com/farukkolip/tiktapdown-mcp"
+    },
+    {
+      "name": "publora/mcp-server",
+      "url": "https://github.com/publora/mcp-server"
+    },
+    {
+      "name": "sofya-co/sofya-mcp",
+      "url": "https://github.com/sofya-co/sofya-mcp"
+    },
+    {
+      "name": "OctoTrip/rental-cars",
+      "url": "https://github.com/OctoTrip/rental-cars"
+    },
+    {
+      "name": "Servation/job-search-mcp",
+      "url": "https://github.com/Servation/job-search-mcp"
+    },
+    {
+      "name": "awkoy/notion-mcp-server",
+      "url": "https://github.com/awkoy/notion-mcp-server"
     }
   ],
-  "last_updated": "2026-06-29"
+  "last_updated": "2026-07-06"
 }
