@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-07-13
+
+### 39 New MCP Servers Discovered
+
+- [Rendeverance/toolfunnel](https://github.com/Rendeverance/toolfunnel)
+- [CNSLabs/agreements-api-sdk](https://github.com/CNSLabs/agreements-api-sdk)
+- [joshseane/-nmlp-mcp](https://github.com/joshseane/-nmlp-mcp)
+- [XavierFabregat/spotify-mcp](https://github.com/XavierFabregat/spotify-mcp)
+- [davidmosiah/wellness-cgm-mcp](https://github.com/davidmosiah/wellness-cgm-mcp)
+- [aethynio/aethyn-browser-mcp](https://github.com/aethynio/aethyn-browser-mcp)
+- [hostodo/hostodo-mcp](https://github.com/hostodo/hostodo-mcp)
+- [john-broadway/proximo](https://github.com/john-broadway/proximo)
+- [foldwork-dev/mcp-injector](https://github.com/foldwork-dev/mcp-injector)
+- [plori-ai/plori](https://github.com/plori-ai/plori)
+- [Yomiracle/trinity-lite](https://github.com/Yomiracle/trinity-lite)
+- [luisgf/infrabroker](https://github.com/luisgf/infrabroker)
+- [paigy-ai/mcp](https://github.com/paigy-ai/mcp)
+- [bodyegypt/lobbyvoices-mcp](https://github.com/bodyegypt/lobbyvoices-mcp)
+- [devopam/MCPg](https://github.com/devopam/MCPg)
+- [croc100/Litescope](https://github.com/croc100/Litescope)
+- [davidmosiah/delx-mcp-server](https://github.com/davidmosiah/delx-mcp-server)
+- [kestiny18/spring-nacos-mcp](https://github.com/kestiny18/spring-nacos-mcp)
+- [aos-standard/mcp-blast-radius](https://github.com/aos-standard/mcp-blast-radius)
+- [SunrisesIllNeverSee/sigrank-mcp](https://github.com/SunrisesIllNeverSee/sigrank-mcp)
+- [dearlordylord/voila-sdk](https://github.com/dearlordylord/voila-sdk)
+- [forum-labs/payfetch](https://github.com/forum-labs/payfetch)
+- [viniciuslazzari/bolsai-mcp](https://github.com/viniciuslazzari/bolsai-mcp)
+- [sebastienrousseau/camt053-mcp](https://github.com/sebastienrousseau/camt053-mcp)
+- [`camt053`](https://github.com/sebastienrousseau/camt053)
+- [ahmetakyurt/zipmem-mcp](https://github.com/ahmetakyurt/zipmem-mcp)
+- [Perseus-Computing-LLC/perseus-vault](https://github.com/Perseus-Computing-LLC/perseus-vault)
+- [Yarmoluk/ckg-mcp](https://github.com/Yarmoluk/ckg-mcp)
+- [edithatogo/fyi-cli](https://github.com/edithatogo/fyi-cli)
+- [AIOProductOS/studio-mcp](https://github.com/AIOProductOS/studio-mcp)
+
+_(and 9 more — see known_servers.json)_
+
 ## 2026-07-06
 
 ### 46 New MCP Servers Discovered

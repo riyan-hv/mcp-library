@@ -15835,7 +15835,163 @@
     {
       "name": "awkoy/notion-mcp-server",
       "url": "https://github.com/awkoy/notion-mcp-server"
+    },
+    {
+      "name": "Rendeverance/toolfunnel",
+      "url": "https://github.com/Rendeverance/toolfunnel"
+    },
+    {
+      "name": "CNSLabs/agreements-api-sdk",
+      "url": "https://github.com/CNSLabs/agreements-api-sdk"
+    },
+    {
+      "name": "joshseane/-nmlp-mcp",
+      "url": "https://github.com/joshseane/-nmlp-mcp"
+    },
+    {
+      "name": "XavierFabregat/spotify-mcp",
+      "url": "https://github.com/XavierFabregat/spotify-mcp"
+    },
+    {
+      "name": "davidmosiah/wellness-cgm-mcp",
+      "url": "https://github.com/davidmosiah/wellness-cgm-mcp"
+    },
+    {
+      "name": "aethynio/aethyn-browser-mcp",
+      "url": "https://github.com/aethynio/aethyn-browser-mcp"
+    },
+    {
+      "name": "hostodo/hostodo-mcp",
+      "url": "https://github.com/hostodo/hostodo-mcp"
+    },
+    {
+      "name": "john-broadway/proximo",
+      "url": "https://github.com/john-broadway/proximo"
+    },
+    {
+      "name": "foldwork-dev/mcp-injector",
+      "url": "https://github.com/foldwork-dev/mcp-injector"
+    },
+    {
+      "name": "plori-ai/plori",
+      "url": "https://github.com/plori-ai/plori"
+    },
+    {
+      "name": "Yomiracle/trinity-lite",
+      "url": "https://github.com/Yomiracle/trinity-lite"
+    },
+    {
+      "name": "luisgf/infrabroker",
+      "url": "https://github.com/luisgf/infrabroker"
+    },
+    {
+      "name": "paigy-ai/mcp",
+      "url": "https://github.com/paigy-ai/mcp"
+    },
+    {
+      "name": "bodyegypt/lobbyvoices-mcp",
+      "url": "https://github.com/bodyegypt/lobbyvoices-mcp"
+    },
+    {
+      "name": "devopam/MCPg",
+      "url": "https://github.com/devopam/MCPg"
+    },
+    {
+      "name": "croc100/Litescope",
+      "url": "https://github.com/croc100/Litescope"
+    },
+    {
+      "name": "davidmosiah/delx-mcp-server",
+      "url": "https://github.com/davidmosiah/delx-mcp-server"
+    },
+    {
+      "name": "kestiny18/spring-nacos-mcp",
+      "url": "https://github.com/kestiny18/spring-nacos-mcp"
+    },
+    {
+      "name": "aos-standard/mcp-blast-radius",
+      "url": "https://github.com/aos-standard/mcp-blast-radius"
+    },
+    {
+      "name": "SunrisesIllNeverSee/sigrank-mcp",
+      "url": "https://github.com/SunrisesIllNeverSee/sigrank-mcp"
+    },
+    {
+      "name": "dearlordylord/voila-sdk",
+      "url": "https://github.com/dearlordylord/voila-sdk"
+    },
+    {
+      "name": "forum-labs/payfetch",
+      "url": "https://github.com/forum-labs/payfetch"
+    },
+    {
+      "name": "viniciuslazzari/bolsai-mcp",
+      "url": "https://github.com/viniciuslazzari/bolsai-mcp"
+    },
+    {
+      "name": "sebastienrousseau/camt053-mcp",
+      "url": "https://github.com/sebastienrousseau/camt053-mcp"
+    },
+    {
+      "name": "`camt053`",
+      "url": "https://github.com/sebastienrousseau/camt053"
+    },
+    {
+      "name": "ahmetakyurt/zipmem-mcp",
+      "url": "https://github.com/ahmetakyurt/zipmem-mcp"
+    },
+    {
+      "name": "Perseus-Computing-LLC/perseus-vault",
+      "url": "https://github.com/Perseus-Computing-LLC/perseus-vault"
+    },
+    {
+      "name": "Yarmoluk/ckg-mcp",
+      "url": "https://github.com/Yarmoluk/ckg-mcp"
+    },
+    {
+      "name": "edithatogo/fyi-cli",
+      "url": "https://github.com/edithatogo/fyi-cli"
+    },
+    {
+      "name": "AIOProductOS/studio-mcp",
+      "url": "https://github.com/AIOProductOS/studio-mcp"
+    },
+    {
+      "name": "dkships/substack-publisher-mcp",
+      "url": "https://github.com/dkships/substack-publisher-mcp"
+    },
+    {
+      "name": "conorbronsdon/op3-mcp",
+      "url": "https://github.com/conorbronsdon/op3-mcp"
+    },
+    {
+      "name": "ankitkapur1992-hlido/hlido-mcp",
+      "url": "https://github.com/ankitkapur1992-hlido/hlido-mcp"
+    },
+    {
+      "name": "OrgMentem/zotio",
+      "url": "https://github.com/OrgMentem/zotio"
+    },
+    {
+      "name": "rejifald/StitchAPI",
+      "url": "https://github.com/rejifald/StitchAPI"
+    },
+    {
+      "name": "Kjopstad-IT/rqwstr",
+      "url": "https://github.com/Kjopstad-IT/rqwstr-mcp"
+    },
+    {
+      "name": "davidmosiah/tiktok-agent-publisher",
+      "url": "https://github.com/davidmosiah/tiktok-agent-publisher"
+    },
+    {
+      "name": "selic/mcp-itglue",
+      "url": "https://github.com/selic/mcp-itglue"
+    },
+    {
+      "name": "HemmaBo-se/hemmabo-mcp-server",
+      "url": "https://github.com/HemmaBo-se/hemmabo-mcp-server"
     }
   ],
-  "last_updated": "2026-07-06"
+  "last_updated": "2026-07-13"
 }
