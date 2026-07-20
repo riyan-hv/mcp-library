@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-07-20
+
+### 128 New MCP Servers Discovered
+
+- [forgemeshlabs/anomaly-mcp](https://github.com/forgemeshlabs/anomaly-mcp)
+- [agentbodegastore/agentbodega](https://github.com/agentbodegastore/agentbodega)
+- [aidevelopers2/remoteopenclaw-mcp](https://github.com/aidevelopers2/remoteopenclaw-mcp)
+- [reefapi/reefapi-mcp](https://github.com/reefapi/reefapi-mcp)
+- [adw0rd/awesome-mcp-tools-mcp](https://github.com/adw0rd/awesome-mcp-tools-mcp)
+- [hedging8563/tokenlab-mcp-server](https://github.com/hedging8563/tokenlab-mcp-server)
+- [kansei-link/kansei-mcp-server](https://github.com/kansei-link/kansei-mcp-server)
+- [tsouth89/toolport](https://github.com/tsouth89/toolport)
+- [quokkapix/quokkapix-mcp](https://github.com/quokkapix/quokkapix-mcp)
+- [memebo-at/memeboat-mcp](https://github.com/memebo-at/memeboat-mcp)
+- [cisco-open/network-sketcher](https://github.com/cisco-open/network-sketcher)
+- [RNVizion/rnv-color-mcp](https://github.com/RNVizion/rnv-color-mcp)
+- [alex-on-ai/WebReaper](https://github.com/alex-on-ai/WebReaper)
+- [lespaceman/agent-web-interface](https://github.com/lespaceman/agent-web-interface)
+- [vincentvella/devloop](https://github.com/vincentvella/devloop)
+- [chaandannn/finopsmcp](https://github.com/chaandannn/finopsmcp)
+- [kaka-milan-22/kops](https://github.com/kaka-milan-22/kops)
+- [openpouch/openpouch](https://github.com/openpouch/openpouch)
+- [Easton-OU/rootpilot-mcp](https://github.com/Easton-OU/rootpilot-mcp)
+- [BigCactusLabs/dead-letter](https://github.com/BigCactusLabs/dead-letter)
+- [Aleksey-Panf/b2b-enrichment-mcp](https://github.com/Aleksey-Panf/b2b-enrichment-mcp)
+- [lintbase/lintbase-mcp](https://github.com/lintbase/lintbase)
+- [ugurcl/dbridge-mcp](https://github.com/ugurcl/dbridge-mcp)
+- [flexorch/flexorch-mcp](https://github.com/flexorch/flexorch-mcp)
+- [hernaninverso/eleata-verify-mcp](https://github.com/hernaninverso/eleata-verify-mcp)
+- [Vivekpatil200320/CyberRescue](https://github.com/Vivekpatil200320/cyberrescue)
+- [raccioly/docguard](https://github.com/raccioly/docguard)
+- [cq27-dev/rag-rat](https://github.com/cq27-dev/rag-rat)
+- [Dusheh/myclaw-toolkit](https://github.com/Dusheh/myclaw-toolkit)
+- [HarperZ9/telos](https://github.com/HarperZ9/telos)
+
+_(and 98 more — see known_servers.json)_
+
 ## 2026-07-13
 
 ### 39 New MCP Servers Discovered
