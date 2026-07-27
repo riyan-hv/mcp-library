@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-07-27
+
+### 263 New MCP Servers Discovered
+
+- [Correctover/mcp-server](https://github.com/Correctover/mcp-server)
+- [daedalusdevelopmentgroup/ddg-agent-payable-services](https://github.com/daedalusdevelopmentgroup/ddg-agent-payable-services)
+- [szp2005/llm-prices-cn](https://github.com/szp2005/llm-prices-cn)
+- [avotsai/avots-mcp](https://github.com/avotsai/avots-mcp)
+- [Proofpane/releases](https://github.com/Proofpane/releases)
+- [mediiiiium/mcp-jp](https://github.com/mediiiiium/mcp-jp)
+- [thebrierfox/the-stall](https://github.com/thebrierfox/the-stall)
+- [skillselion/skillselion-mcp](https://github.com/skillselion/skillselion-mcp)
+- [singhpratech/crimson-crab-mcp-template](https://github.com/singhpratech/crimson-crab-mcp-template)
+- [viventine-space/orbit-sentinel-mcp](https://github.com/viventine-space/orbit-sentinel-mcp)
+- [humanforai/humanforai-mcp](https://github.com/humanforai/humanforai-mcp)
+- [hanshs474/kavel-mcp](https://github.com/hanshs474/kavel-mcp)
+- [labelgrid/labelgrid-mcp](https://github.com/labelgrid/labelgrid-mcp)
+- [aidc2026ai-melon/aidc-ai-mcp](https://github.com/aidc2026ai-melon/aidc-ai-mcp)
+- [HalidSaglam/saglitzdesign-mcp](https://github.com/HalidSaglam/saglitzdesign-mcp)
+- [Kentucky-ai/opentakeoff](https://github.com/Kentucky-ai/opentakeoff)
+- [posecode-dev/posecode](https://github.com/posecode-dev/posecode)
+- [uxloom-dev/uxloom](https://github.com/uxloom-dev/uxloom)
+- [Crindo2/gph-mcp-server](https://github.com/Crindo2/gph-mcp-server)
+- [SEOSiri-Official/biorobotics](https://github.com/SEOSiri-Official/biorobotics)
+- [Rajskij/oura-mcp](https://github.com/Rajskij/oura-mcp)
+- [smaniches/uniprot-mcp](https://github.com/smaniches/uniprot-mcp)
+- [auspy/supasidebar-mcp](https://github.com/auspy/supasidebar-mcp)
+- [dashi96/chromium-bridge](https://github.com/dashi96/chromium-bridge)
+- [mi60dev/visionaire-engine](https://github.com/mi60dev/visionaire-engine)
+- [ScrapeUnblocker/scrapeunblocker-mcp](https://github.com/ScrapeUnblocker/scrapeunblocker-mcp)
+- [huangdun/tempmd-mcp](https://github.com/huangdun/tempmd-mcp)
+- [L337-org/docker-mcp](https://github.com/L337-org/docker-mcp)
+- [RajeevSirohi/mcp-server-terraform](https://github.com/RajeevSirohi/mcp-server-terraform)
+- [stevejford/shiply-mcp](https://github.com/stevejford/shiply-mcp)
+
+_(and 233 more — see known_servers.json)_
+
 ## 2026-07-20
 
 ### 128 New MCP Servers Discovered
