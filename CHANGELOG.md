@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-08-03
+
+### 72 New MCP Servers Discovered
+
+- [mcpqueen/mcpqueen](https://github.com/mcpqueen/mcpqueen)
+- [Alepha188838884/context-firewall](https://github.com/Alepha188838884/context-firewall)
+- [RightOnPar-LLC/mesh-connector](https://github.com/RightOnPar-LLC/mesh-connector)
+- [forcedreamai/forcedream-mcp](https://github.com/forcedreamai/forcedream-mcp)
+- [ArturLys/ao3-mcp](https://github.com/ArturLys/ao3-mcp)
+- [rekordcloud/sonovault-mcp](https://github.com/rekordcloud/sonovault-mcp)
+- [vicseeai/vicsee-mcp-server](https://github.com/vicseeai/vicsee-mcp-server)
+- [bobaba99/motionlint](https://github.com/bobaba99/motionlint)
+- [healthchainai/HealthChain](https://github.com/healthchainai/HealthChain)
+- [kushaim/practice-fusion-mcp](https://github.com/kushaim/practice-fusion-mcp)
+- [smaniches/alphafold-sovereign-mcp](https://github.com/smaniches/alphafold-sovereign-mcp)
+- [thehealthai/clarity-mcp](https://github.com/thehealthai/clarity-mcp)
+- [thehealthai/fda-risk-radar-mcp](https://github.com/thehealthai/fda-risk-radar-mcp)
+- [Ceki-me/mcp-server](https://github.com/Ceki-me/mcp-server)
+- [MathiasPaulenko/wavexis-mcp](https://github.com/MathiasPaulenko/wavexis-mcp)
+- [AIops-tools/Nutanix-AIops](https://github.com/AIops-tools/Nutanix-AIops)
+- [Albaker-Group/cloudprice-mcp](https://github.com/Albaker-Group/cloudprice-mcp)
+- [lawrencehui/Citio](https://github.com/lawrencehui/Citio)
+- [gerard-kanters/mcp-linux-tools](https://github.com/gerard-kanters/mcp-linux-tools)
+- [lacs-project/sysknife](https://github.com/lacs-project/sysknife)
+- [soren-achebe/backscroll](https://github.com/soren-achebe/backscroll)
+- [hgn/mcp-server-notmuch](https://github.com/hgn/mcp-server-notmuch)
+- [TsvetanG2/cognigy-ai-mcp-management-server](https://github.com/TsvetanG2/cognigy-ai-mcp-management-server)
+- [AIops-tools/Postgres-AIops](https://github.com/AIops-tools/Postgres-AIops)
+- [datacharter/datacharter](https://github.com/datacharter/datacharter)
+- [hivemindunit/llmintel-mcp](https://github.com/hivemindunit/llmintel-mcp)
+- [docweave/mcp](https://github.com/NicolasMartalog/docweave-mcp)
+- [nomadop/session-watcher](https://github.com/nomadop/session-watcher)
+- [AKzar1el/mcp-web-validator](https://github.com/AKzar1el/mcp-web-validator)
+- [ForeverTools/kiprio-mcp](https://github.com/ForeverTools/kiprio-mcp)
+
+_(and 42 more — see known_servers.json)_
+
 ## 2026-07-27
 
 ### 263 New MCP Servers Discovered
