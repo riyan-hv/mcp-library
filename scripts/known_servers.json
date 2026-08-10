@@ -17843,7 +17843,11 @@
     {
       "name": "imnoo-team/drawing-converter-mcp",
       "url": "https://github.com/imnoo-team/drawing-converter-mcp"
+    },
+    {
+      "name": "Fronesis-Labs/dcl-webhook",
+      "url": "https://github.com/Fronesis-Labs/dcl-webhook"
     }
   ],
-  "last_updated": "2026-08-03"
+  "last_updated": "2026-08-10"
 }

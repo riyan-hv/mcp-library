@@ -5,6 +5,12 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-08-10
+
+### 1 New MCP Servers Discovered
+
+- [Fronesis-Labs/dcl-webhook](https://github.com/Fronesis-Labs/dcl-webhook)
+
 ## 2026-08-03
 
 ### 72 New MCP Servers Discovered
