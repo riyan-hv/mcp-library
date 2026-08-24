@@ -5,6 +5,12 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-08-24
+
+### 1 New MCP Servers Discovered
+
+- [Newscatcher/catchall-mcp](https://github.com/Newscatcher/catchall-mcp)
+
 ## 2026-08-10
 
 ### 1 New MCP Servers Discovered

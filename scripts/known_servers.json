@@ -17847,7 +17847,11 @@
     {
       "name": "Fronesis-Labs/dcl-webhook",
       "url": "https://github.com/Fronesis-Labs/dcl-webhook"
+    },
+    {
+      "name": "Newscatcher/catchall-mcp",
+      "url": "https://github.com/Newscatcher/catchall-mcp"
     }
   ],
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-24"
 }
