@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-08-31
+
+### 108 New MCP Servers Discovered
+
+- [Gliana-Labs/gliana-mcp](https://github.com/Gliana-Labs/gliana-mcp)
+- [decision-anchor/mcp-server](https://github.com/decision-anchor/mcp-server)
+- [kinti/a11y-toolkit](https://github.com/kinti/a11y-toolkit)
+- [noteboxd/mcp](https://github.com/noteboxd/mcp)
+- [ni-c/calibreweb-mcp](https://github.com/ni-c/calibreweb-mcp)
+- [smeet666/mcp-books](https://github.com/smeet666/mcp-books)
+- [yonlandwu/chinese-almanac-mcp](https://github.com/yonlandwu/chinese-almanac-mcp)
+- [ng-galien/maket](https://github.com/ng-galien/maket)
+- [RedHold/diagrams-mcp-app-core](https://github.com/RedHold/diagrams-mcp-app-core)
+- [davidmosiah/wellness-nourish](https://github.com/davidmosiah/wellness-nourish)
+- [wjgoarxiv/pymol-mcp](https://github.com/wjgoarxiv/pymol-mcp)
+- [andresolbach/nodriver-mcp-server](https://github.com/andresolbach/nodriver-mcp-server)
+- [browserless/browserless-mcp](https://github.com/browserless/browserless-mcp)
+- [dmytrome/groundhog](https://github.com/dmytrome/groundhog)
+- [paipaipai666/nexus-browser-mcp](https://github.com/paipaipai666/nexus-browser-mcp)
+- [screenshotscout/screenshotscout-mcp](https://github.com/screenshotscout/screenshotscout-mcp)
+- [SolveGate/solvegate-mcp](https://github.com/SolveGate/solvegate-mcp)
+- [sylin-org/ghostlight](https://github.com/sylin-org/ghostlight)
+- [BlazingCDN/BlazingCDN-MCP](https://github.com/BlazingCDN/BlazingCDN-MCP)
+- [frndchagas/coolify-mcp](https://github.com/frndchagas/coolify-mcp)
+- [ni-c/hetzner-dns-mcp](https://github.com/ni-c/hetzner-dns-mcp)
+- [publee-dev/mcp](https://github.com/publee-dev/mcp)
+- [Reachpad/reachpad-mcp](https://github.com/Reachpad/reachpad-mcp)
+- [polymatx/dibs](https://github.com/polymatx/dibs)
+- [natiixnt/redcon](https://github.com/natiixnt/redcon)
+- [desek/outlook-local-mcp](https://github.com/desek/outlook-local-mcp)
+- [parasxos/apple-mail-mcp](https://github.com/parasxos/apple-mail-mcp)
+- [redditapis/redditapis-mcp](https://github.com/redditapis/redditapis-mcp)
+- [jaimenbell/discord-mcp](https://github.com/jaimenbell/discord-mcp)
+- [openagentemail/openagentemail](https://github.com/openagentemail/openagentemail)
+
+_(and 78 more — see known_servers.json)_
+
 ## 2026-08-24
 
 ### 1 New MCP Servers Discovered
