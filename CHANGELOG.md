@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-09-07
+
+### 37 New MCP Servers Discovered
+
+- [team886/findagent-mcp](https://github.com/team886/findagent-mcp)
+- [gzchenhao/openhire](https://github.com/gzchenhao/openhire)
+- [MikeyPetrillo/Agent402](https://github.com/MikeyPetrillo/Agent402)
+- [krupalghori44-dev/infyicon-mcp](https://github.com/krupalghori44-dev/infyicon-mcp)
+- [claimidx/claimidx](https://github.com/claimidx/claimidx)
+- [20000419/fauxnix](https://github.com/20000419/fauxnix)
+- [dwgx/SmartCLI](https://github.com/dwgx/SmartCLI)
+- [serhiizghama/viber-mcp](https://github.com/serhiizghama/viber-mcp)
+- [slotix/dbconvert-streams-public](https://github.com/slotix/dbconvert-streams-public)
+- [om-tajne/pkgdiet](https://github.com/om-tajne/pkgdiet)
+- [alexbypa/github-projectpulse-mcp](https://github.com/alexbypa/github-projectpulse-mcp)
+- [extentos/mcp-server](https://github.com/extentos/mcp-server)
+- [gridproof/gridproof](https://github.com/gridproof/gridproof)
+- [h-kazuki-pixel/layout-doctor-mcp](https://github.com/h-kazuki-pixel/layout-doctor-mcp)
+- [logisky/logisheets-mcp](https://github.com/logisky/logisheets-mcp)
+- [LogiSheets](https://github.com/logisky/LogiSheets)
+- [pofky/asc-mcp](https://github.com/pofky/asc-mcp)
+- [CydVilla/peckish](https://github.com/CydVilla/peckish)
+- [mrnh/rigor](https://github.com/mrnh/rigor)
+- [ilyautov/marketplaces-mcp-ru](https://github.com/ilyautov/marketplaces-mcp-ru)
+- [TrendTweekers/mintpdf](https://github.com/TrendTweekers/mintpdf)
+- [CHANGCHINFU/mcp-gauge](https://github.com/CHANGCHINFU/mcp-gauge)
+- [human-beyond/mainbook-mcp](https://github.com/human-beyond/mainbook-mcp)
+- [Jeric1223/tossinvest-mcp](https://github.com/Jeric1223/tossinvest-mcp)
+- [kindrat86/agentmail](https://github.com/kindrat86/agentmail)
+- [drknowhow/fluxdots-mcp](https://github.com/drknowhow/fluxdots-mcp)
+- [fish827-08/rag-kb](https://github.com/fish827-08/rag-kb)
+- [drexthealpha/Knos](https://github.com/drexthealpha/Knos)
+- [chuofringer/placeroot](https://github.com/chuofringer/placeroot)
+- [conorbronsdon/gsc-mcp](https://github.com/conorbronsdon/gsc-mcp)
+
+_(and 7 more — see known_servers.json)_
+
 ## 2026-08-31
 
 ### 108 New MCP Servers Discovered
