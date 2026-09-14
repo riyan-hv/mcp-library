@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-09-14
+
+### 407 New MCP Servers Discovered
+
+- [awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers)
+- [forgemeshlabs/utility-grid-mcp](https://github.com/forgemeshlabs/utility-grid-mcp)
+- [minia2auk/minia2a-mcp](https://github.com/minia2auk/minia2a-mcp)
+- [getanyapi-com/mcp](https://github.com/getanyapi-com/mcp)
+- [api7/aisix](https://github.com/api7/aisix)
+- [bridgenode-ai/bridgenode-mcp](https://github.com/bridgenode-ai/bridgenode-mcp)
+- [Jackalope-Dev/allmcps-server](https://github.com/Jackalope-Dev/allmcps-server)
+- [mirastacklabs-ai/mirastack-redfish-mcp](https://github.com/mirastacklabs-ai/mirastack-redfish-mcp)
+- [nimbus-agent/Nimbus](https://github.com/nimbus-agent/Nimbus)
+- [doteyeso-ops/mcp-server-vibes-coded](https://github.com/doteyeso-ops/mcp-server-vibes-coded)
+- [swaltersjrtest/microtap-mcp](https://github.com/swaltersjrtest/microtap-mcp)
+- [mrfelfel/taghvim](https://github.com/mrfelfel/taghvim)
+- [withoneai/mcp](https://github.com/withoneai/mcp)
+- [mcccsm/x402-list-mcp](https://github.com/mcccsm/x402-list-mcp)
+- [BrightbeamAI/chap](https://github.com/BrightbeamAI/chap)
+- [cogdepot/mcp-server](https://github.com/cogdepot/mcp-server)
+- [elicitly/elicitly](https://github.com/elicitly/elicitly)
+- [Vladimir-Human/humanizer-ru](https://github.com/Vladimir-Human/humanizer-ru)
+- [gofrantic/frantic-mcp](https://github.com/gofrantic/frantic-mcp)
+- [TheRealDalaiLama/glyphdna-mcp](https://github.com/TheRealDalaiLama/glyphdna-mcp)
+- [fgbytes/sansfiction-mcp](https://github.com/fgbytes/sansfiction-mcp)
+- [DataCraftsmanAU/vineverse-mcp](https://github.com/DataCraftsmanAU/vineverse-mcp)
+- [fatenava/fatenava-mcp](https://github.com/fatenava/fatenava-mcp)
+- [gchen19/AnkusDrive](https://github.com/gchen19/AnkusDrive)
+- [gokimedia/tarot-mcp-server](https://github.com/gokimedia/tarot-mcp-server)
+- [Psalmustrack/lambdacad-mcp](https://github.com/Psalmustrack/lambdacad-mcp)
+- [runcomfy-com/runcomfy-mcp](https://github.com/runcomfy-com/runcomfy-mcp)
+- [smeet666/mcp-lrclib](https://github.com/smeet666/mcp-lrclib)
+- [smeet666/mcp-imslp](https://github.com/smeet666/mcp-imslp)
+- [slshults/shakespeare-monologues-mcp](https://github.com/slshults/shakespeare-monologues-mcp)
+
+_(and 377 more — see known_servers.json)_
+
 ## 2026-09-07
 
 ### 37 New MCP Servers Discovered
