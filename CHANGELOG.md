@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-09-21
+
+### 312 New MCP Servers Discovered
+
+- [402signalhq/402signal](https://github.com/402signalhq/402signal)
+- [GarphenGate/moltline-mcp](https://github.com/GarphenGate/moltline-mcp)
+- [BotHireAgent/BotHireMCPServer](https://github.com/BotHireAgent/BotHireMCPServer)
+- [@neoninnovationlab/neon-mcp-gateway](https://github.com/neoninnovationlab/neon-mcp-gateway)
+- [PHONGUIT22/nostrpulse-full](https://github.com/PHONGUIT22/nostrpulse-full)
+- [AIsa-public/AIsa-mcp-server](https://github.com/AIsa-public/AIsa-mcp-server)
+- [gamaze-labs/hicortex](https://github.com/gamaze-labs/hicortex)
+- [kevmoz/macaroonnetwork-mcp](https://github.com/kevmoz/macaroonnetwork-mcp)
+- [ni-c/mcp-hub](https://github.com/ni-c/mcp-hub)
+- [activeing123/mcptoon](https://github.com/activeing123/mcptoon)
+- [ianewsfr-a11y/ergonia](https://github.com/ianewsfr-a11y/ergonia)
+- [lanekingsbery/open-task-relay-public](https://github.com/lanekingsbery/open-task-relay-public)
+- [tribeunal/mcp-server](https://github.com/tribeunal/mcp-server)
+- [vince-gonzalez/opticquiz-mcp](https://github.com/vince-gonzalez/opticquiz-mcp)
+- [musajala/musajala-mcp](https://github.com/musajala/musajala-mcp)
+- [CreativeClawCo/creative-claw-marketplace](https://github.com/CreativeClawCo/creative-claw-marketplace)
+- [flamexnreal/davinci-resolve-ai-bridge-mcp](https://github.com/flamexnreal/davinci-resolve-ai-bridge-mcp)
+- [sharafutdinovdi/revit-model-mcp](https://github.com/sharafutdinovdi/revit-model-mcp)
+- [speedwarnsf/scenef-mcp](https://github.com/speedwarnsf/scenef-mcp)
+- [wretcher207/reaper-daemon](https://github.com/wretcher207/reaper-daemon)
+- [Daksh-create349/Contradiction-MCP](https://github.com/Daksh-create349/Contradiction-MCP)
+- [imgly/codesign](https://github.com/imgly/codesign)
+- [Roberton003/mcp-server-decisions](https://github.com/Roberton003/mcp-server-decisions)
+- [tomyangod/architecture_viewer](https://github.com/tomyangod/architecture_viewer)
+- [forever-healthy/evipedia-mcp](https://github.com/forever-healthy/evipedia-mcp)
+- [sikcapri/superglookoquery](https://github.com/sikcapri/superglookoquery)
+- [AishwaryShrivastav/vibe-testing](https://github.com/AishwaryShrivastav/vibe-testing)
+- [autokeren/ghostfox](https://github.com/autokeren/ghostfox)
+- [frsorrentino/chrome-bridge](https://github.com/frsorrentino/chrome-bridge)
+- [SanggonBoy/PyreCrawl](https://github.com/SanggonBoy/PyreCrawl)
+
+_(and 282 more — see known_servers.json)_
+
 ## 2026-09-14
 
 ### 407 New MCP Servers Discovered
