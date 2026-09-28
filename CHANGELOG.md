@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-09-28
+
+### 80 New MCP Servers Discovered
+
+- [cgrtml/reasongate](https://github.com/cgrtml/reasongate)
+- [kaxiyu/aiagentmarket](https://github.com/kaxiyu/aiagentmarket)
+- [sttruji/mundane-mcp](https://github.com/sttruji/mundane-mcp)
+- [yuluo688/gen-image-mcp](https://github.com/yuluo688/gen-image-mcp)
+- [corbinvachal48/agentrender-mcp](https://github.com/corbinvachal48/agentrender-mcp)
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser)
+- [CapMonsterCloud/capmonster-mcp-captcha-solver](https://github.com/CapMonsterCloud/capmonster-mcp-captcha-solver)
+- [AkaciaNL/basicdeploy-mcp](https://github.com/AkaciaNL/basicdeploy-mcp)
+- [pdavis68/RepoMapper](https://github.com/pdavis68/RepoMapper)
+- [AICommander-dev/aicommander](https://github.com/AICommander-dev/aicommander)
+- [agentmail-to/agentmail-mcp](https://github.com/agentmail-to/agentmail-mcp)
+- [elie222/inbox-zero](https://github.com/elie222/inbox-zero)
+- [JulienRabault/icloud-mcp](https://github.com/JulienRabault/icloud-mcp)
+- [kojott/mailmcp-dist](https://github.com/kojott/mailmcp-dist)
+- [get-convex/convex-backend](https://github.com/get-convex/convex-backend)
+- [s2-streamstore/mcp](https://github.com/s2-streamstore/mcp)
+- [ieranama/discomcp](https://github.com/ieranama/discomcp)
+- [Hyperiux-Immersion-Labs/hyperiux-components](https://github.com/Hyperiux-Immersion-Labs/hyperiux-components)
+- [bricelancasterwcp-sudo/sensorium](https://github.com/bricelancasterwcp-sudo/sensorium)
+- [Jarroslav/agentic-os](https://github.com/Jarroslav/agentic-os)
+- [VerificateAI/verificate-mcp-quickstart](https://github.com/VerificateAI/verificate-mcp-quickstart)
+- [dynatrace-oss/dynatrace-managed-mcp](https://github.com/dynatrace-oss/dynatrace-managed-mcp)
+- [infino-ai/code-context](https://github.com/infino-ai/code-context)
+- [tcgunel/mobius-mcp](https://github.com/tcgunel/mobius-mcp)
+- [canopy-labs/featureflip-mcp](https://github.com/canopy-labs/featureflip-mcp)
+- [carldaws/squiggles](https://github.com/carldaws/squiggles)
+- [gridhra/port-keeper-mcp](https://github.com/gridhra/port-keeper-mcp)
+- [MnemeHQ/mneme](https://github.com/MnemeHQ/mneme)
+- [Nagarjuna2997/ios-agent-skill](https://github.com/Nagarjuna2997/ios-agent-skill)
+- [pasichDev/docket](https://github.com/pasichDev/docket)
+
+_(and 50 more — see known_servers.json)_
+
 ## 2026-09-21
 
 ### 312 New MCP Servers Discovered
