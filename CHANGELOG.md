@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-10-12
+
+### 146 New MCP Servers Discovered
+
+- [t3ratech/market-pulse-mcp](https://github.com/t3ratech/market-pulse-mcp)
+- [effectustasi/autodesk-inventor-mcp](https://github.com/effectustasi/autodesk-inventor-mcp)
+- [Gatyh/3dtexel-mcp](https://github.com/Gatyh/3dtexel-mcp)
+- [kenzolika/yandex-music-mcp](https://github.com/kenzolika/yandex-music-mcp)
+- [AETumiApp/aetumi-mcp](https://github.com/AETumiApp/aetumi-mcp)
+- [Tommkruix/archprint](https://github.com/Tommkruix/archprint)
+- [rewire-bio/genomics-mcp](https://github.com/rewire-bio/genomics-mcp)
+- [Ahtasham00/tactab](https://github.com/Ahtasham00/tactab)
+- [DevHusnainAi/zerodom](https://github.com/DevHusnainAi/zerodom)
+- [Eric-huang799/duplex](https://github.com/Eric-huang799/duplex)
+- [hahahahahahahahah6/browser-buddy](https://github.com/hahahahahahahahah6/browser-buddy)
+- [Savvy-Tech-Sphere/usable-browser-agent-free](https://github.com/Savvy-Tech-Sphere/usable-browser-agent-free)
+- [SnapBlock/hai-browser](https://github.com/SnapBlock/hai-browser)
+- [dockndevai/mcp-keycloak](https://github.com/dockndevai/mcp-keycloak)
+- [M-Yamashita01/cloudflare-mcp-go](https://github.com/M-Yamashita01/cloudflare-mcp-go)
+- [oborseth/Porkbun-MCP](https://github.com/oborseth/Porkbun-MCP)
+- [roybogs/portveil-mcp](https://github.com/roybogs/portveil-mcp)
+- [ly8427/mcp-review-board](https://github.com/ly8427/mcp-review-board)
+- [dimitrihilverda/claude-session-relay](https://github.com/dimitrihilverda/claude-session-relay)
+- [AV-Labs-Co/cos-codex-bridge](https://github.com/AV-Labs-Co/cos-codex-bridge)
+- [Rikinshah787/dotpals](https://github.com/Rikinshah787/dotpals)
+- [A1-x-Tech/mcp-google-gmail](https://github.com/A1-x-Tech/mcp-google-gmail)
+- [belaytzev/Telebrief](https://github.com/belaytzev/Telebrief)
+- [fbossiere/proton-safe-mcp](https://github.com/fbossiere/proton-safe-mcp)
+- [jamalofski/mailprobe-mcp](https://github.com/jamalofski/mailprobe-mcp)
+- [MankhongGarden/line-bot-ops-mcp](https://github.com/MankhongGarden/line-bot-ops-mcp)
+- [PhilflowIO/dav-mcp](https://github.com/PhilflowIO/dav-mcp)
+- [SharimAli/discp](https://github.com/SharimAli/discp)
+- [sdyuyouth/agenthop](https://github.com/sdyuyouth/agenthop)
+- [anpekesen/namegender-mcp](https://github.com/anpekesen/namegender-mcp)
+
+_(and 116 more — see known_servers.json)_
+
 ## 2026-09-28
 
 ### 80 New MCP Servers Discovered
