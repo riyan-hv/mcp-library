@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-10-19
+
+### 148 New MCP Servers Discovered
+
+- [inth3shadows/terse](https://github.com/inth3shadows/terse)
+- [tbernabo/forbiz-mcp](https://github.com/tbernabo/forbiz-mcp)
+- [JasmyLab-JANCTION/janction-render](https://github.com/JasmyLab-JANCTION/janction-render)
+- [dokaNc/illugen-mcp](https://github.com/dokaNc/illugen-mcp)
+- [ntworm/ableton-mcp-server](https://github.com/ntworm/ableton-mcp-server)
+- [docsor1212/aesthete-agent](https://github.com/docsor1212/aesthete-agent)
+- [patrickchugh/terravision](https://github.com/patrickchugh/terravision)
+- [PRIDA-TAKON/debim](https://github.com/PRIDA-TAKON/debim)
+- [swebsy/MCP](https://github.com/swebsy/MCP)
+- [openreadout/openreadout](https://github.com/openreadout/openreadout)
+- [DynamicsNinja/garminconnect-js](https://github.com/DynamicsNinja/garminconnect-js)
+- [sachinbkale27/label-image-mcp](https://github.com/sachinbkale27/label-image-mcp)
+- [tylergibbs1/backwork-mcp](https://github.com/tylergibbs1/backwork-mcp)
+- [IGELHARINE/CDPM](https://github.com/IGELHARINE/CDPM)
+- [maemreyo/zamery-browser](https://github.com/maemreyo/zamery-browser)
+- [Miladmet/quickcast-mcp](https://github.com/Miladmet/quickcast-mcp)
+- [morfiade-app/morfiade-mcp](https://github.com/morfiade-app/morfiade-mcp)
+- [tech-lead-bunny/agenteyes-mcp](https://github.com/tech-lead-bunny/agenteyes-mcp)
+- [AIops-tools/Ceph-AIops](https://github.com/AIops-tools/Ceph-AIops)
+- [AIops-tools/Container-Host-AIops](https://github.com/AIops-tools/Container-Host-AIops)
+- [AAR-Labs/snapdeploy-mcp](https://github.com/AAR-Labs/snapdeploy-mcp)
+- [AIops-tools/MinIO-AIops](https://github.com/AIops-tools/MinIO-AIops)
+- [AIops-tools/Network-AIops](https://github.com/AIops-tools/Network-AIops)
+- [AIops-tools/Proxmox-AIops](https://github.com/AIops-tools/Proxmox-AIops)
+- [gitayg/appcrane-mcp](https://github.com/gitayg/appcrane-mcp)
+- [OptimNow/cloud-finops-skills](https://github.com/OptimNow/cloud-finops-skills)
+- [radumalica/infrastructure-mcp](https://github.com/radumalica/infrastructure-mcp)
+- [EngMarchG/agent-bridge](https://github.com/EngMarchG/agent-bridge)
+- [HighlyLoadedEgo/ClefMCP](https://github.com/HighlyLoadedEgo/ClefMCP)
+- [parasxos/postbag](https://github.com/parasxos/postbag)
+
+_(and 118 more — see known_servers.json)_
+
 ## 2026-10-12
 
 ### 146 New MCP Servers Discovered
