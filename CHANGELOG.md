@@ -5,6 +5,43 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-10-26
+
+### 238 New MCP Servers Discovered
+
+- [giorgio44/gateonai-mcp-server](https://github.com/giorgio44/gateonai-mcp-server)
+- [bkraad47/ramen](https://github.com/bkraad47/ramen)
+- [kaiser-data/kitsune-mcp](https://github.com/kaiser-data/kitsune-mcp)
+- [kumarganduri/legwork](https://github.com/kumarganduri/legwork)
+- [matebenyovszky/agentplaybooks](https://github.com/matebenyovszky/agentplaybooks)
+- [O-mega-Enterprise/suprsonic-mcp](https://github.com/O-mega-Enterprise/suprsonic-mcp)
+- [qualienai/qualien-mcp](https://github.com/qualienai/qualien-mcp)
+- [Strategiumfinancepartner/AgentNexus](https://github.com/Strategiumfinancepartner/AgentNexus)
+- [cirwel/unitares](https://github.com/cirwel/unitares)
+- [GriffMurder/taskbullet-mcp-server](https://github.com/GriffMurder/taskbullet-mcp-server)
+- [signdocsbrasil/signdocs-mcp-server](https://github.com/signdocsbrasil/signdocs-mcp-server)
+- [kim-dongho/krds-a11y-mcp](https://github.com/kim-dongho/krds-a11y-mcp)
+- [mishan/shotbox](https://github.com/mishan/shotbox)
+- [Armulee/ai-gateway-mcp](https://github.com/Armulee/ai-gateway-mcp)
+- [hjbaard/SolidWorks-MCP](https://github.com/hjbaard/SolidWorks-MCP)
+- [Venut-Technologies/serato-dj-mcp](https://github.com/Venut-Technologies/serato-dj-mcp)
+- [Xxx91n/mcp-for-maya](https://github.com/Xxx91n/mcp-for-maya)
+- [CanvasKeep/canvaskeep-mcp](https://github.com/CanvasKeep/canvaskeep-mcp)
+- [Hackeatutiempo/mapache](https://github.com/Hackeatutiempo/mapache)
+- [Luvi-io/luw-mcp](https://github.com/Luvi-io/luw-mcp)
+- [BerkantACUN/ifc-ruhsat](https://github.com/BerkantACUN/ifc-ruhsat)
+- [danielLuo2/bioharbor](https://github.com/danielLuo2/bioharbor)
+- [nickjlamb/pubcrawl](https://github.com/nickjlamb/pubcrawl)
+- [sanikacentric/biolit-mcp](https://github.com/sanikacentric/biolit-mcp)
+- [77777R7/Octocrawl](https://github.com/77777R7/Octocrawl)
+- [AceAtDev/ascended-browser](https://github.com/AceAtDev/ascended-browser)
+- [BeatAPI/BeatBrowser](https://github.com/BeatAPI/BeatBrowser)
+- [fullselfbrowsing/FSB](https://github.com/fullselfbrowsing/FSB)
+- [Moha2005269/agentgo-mcp](https://github.com/Moha2005269/agentgo-mcp)
+- [AgentGo browser](https://github.com/Moha2005269/agentgo)
+
+_(and 208 more — see known_servers.json)_
+
 ## 2026-10-19
 
 ### 148 New MCP Servers Discovered
