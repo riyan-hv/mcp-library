@@ -23755,7 +23755,15 @@
     {
       "name": "tekspry/DotnetFastMCP",
       "url": "https://github.com/tekspry/DotnetFastMCP"
+    },
+    {
+      "name": "jackjin1997/markindex",
+      "url": "https://github.com/jackjin1997/markindex"
+    },
+    {
+      "name": "MCP Inspector",
+      "url": "https://github.com/modelcontextprotocol/inspector"
     }
   ],
-  "last_updated": "2026-10-26"
+  "last_updated": "2026-11-02"
 }

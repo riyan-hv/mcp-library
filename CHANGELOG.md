@@ -5,6 +5,13 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-11-02
+
+### 2 New MCP Servers Discovered
+
+- [jackjin1997/markindex](https://github.com/jackjin1997/markindex)
+- [MCP Inspector](https://github.com/modelcontextprotocol/inspector)
+
 ## 2026-10-26
 
 ### 238 New MCP Servers Discovered
