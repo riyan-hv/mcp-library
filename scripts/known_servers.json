@@ -23763,7 +23763,11 @@
     {
       "name": "MCP Inspector",
       "url": "https://github.com/modelcontextprotocol/inspector"
+    },
+    {
+      "name": "Arkz-Deepak/neurocode",
+      "url": "https://github.com/Arkz-Deepak/neurocode"
     }
   ],
-  "last_updated": "2026-11-02"
+  "last_updated": "2026-11-09"
 }

@@ -5,6 +5,12 @@ Manual additions welcome — open a PR to this repo.
 
 ---
 
+## 2026-11-09
+
+### 1 New MCP Servers Discovered
+
+- [Arkz-Deepak/neurocode](https://github.com/Arkz-Deepak/neurocode)
+
 ## 2026-11-02
 
 ### 2 New MCP Servers Discovered
